@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 3 (30 câu) */
+QUIZ.register({
+  id: "dt-03", group: "dt", kind: "fixed",
+  title: "Đề 3", short: "Điền từ đề 3", sub: "Câu 61–90 · 30 câu",
+  questions: [
+  {"n": 61, "q": "“Vậy, Thầy bảo cho anh em biết, nếu anh em không ăn ở… các kinh sư và người Pha-ri-sêu, thì sẽ chẳng được vào Nước Trời”. (Mt 5,20)", "o": ["Công chính", "Tốt lành hơn", "Công chính hơn", "Công chính như"], "a": 2},
+  {"n": 62, "q": "“Anh em đã nghe Luật dạy người xưa rằng: Chớ giết người; ai giết người, thì đáng bị đưa ra toà. Còn Thầy, Thầy bảo cho anh em biết: Ai…, thì đáng bị đưa ra toà”. (Mt 5,21- 22)", "o": ["Chửi rủa anh em mình", "Nguyền rủa anh em mình", "Đánh đập anh em mình", "Giận anh em mình"], "a": 3},
+  {"n": 63, "q": "“Ai mắng anh em mình là đồ ngốc, thì đáng bị đưa ra trước…”. (Mt 5,22)", "o": ["Thượng Hội Đồng", "Quan Tòa", "Tòa Án", "Hội Đồng"], "a": 0},
+  {"n": 64, "q": "“Còn ai chửi anh em mình là quân phản đạo, thì đáng bị…”. (Mt 5,22)", "o": ["Lửa thiêu đốt", "Đưa ra tòa", "Đưa ra trước Hội Đồng", "Lửa hoả ngục thiêu đốt"], "a": 3},
+  {"n": 65, "q": "“Vậy, nếu khi anh sắp dâng lễ vật trước bàn thờ, mà sực nhớ có người anh em đang có chuyện bất bình với anh, thì hãy để của lễ lại đó trước bàn thờ,… với người anh em ấy đã, rồi trở lại dâng lễ vật của mình”. (Mt 5,23-24)", "o": ["Về cầu hòa", "Đi giải hòa", "Đi làm hoà", "Về hòa giải"], "a": 2},
+  {"n": 66, "q": "“Anh em đã nghe Luật dạy rằng: Chớ ngoại tình. Còn Thầy, Thầy bảo cho anh em biết: ai nhìn người phụ nữ mà thèm muốn, thì… đã ngoại tình với người ấy rồi”. (Mt 5,27-28)", "o": ["Trong lòng mình", "Tâm hồn mình", "Tâm trí mình", "Trong lòng"], "a": 3},
+  {"n": 67, "q": "“Anh em còn nghe Luật dạy người xưa rằng: Chớ bội thề, nhưng hãy trọn lời thề với Đức Chúa. Còn Thầy, Thầy bảo cho anh em biết: …”. (Mt 5,33-34)", "o": ["Đừng thề chi cả", "Chỉ thề khi cần thiết thôi", "Không nên thề chi cả", "Chớ thề thốt"], "a": 0},
+  {"n": 68, "q": "“Anh em đã nghe Luật dạy rằng: Mắt đền mắt, răng đền răng. Còn Thầy, Thầy bảo anh em:…, trái lại, nếu bị ai vả má bên phải, thì hãy giơ cả má bên trái ra nữa”. (Mt 5,38-39)", "o": ["Đừng như bọn gian ác", "Đừng chống lại bọn ác", "Đừng như quân gian ác", "Đừng chống cự người ác"], "a": 3},
+  {"n": 69, "q": "“Nếu ai muốn kiện anh để lấy áo trong của anh, thì hãy để cho nó… Nếu có người bắt anh đi một dặm, thì hãy đi với người ấy hai dặm”. (Mt 5,40-41)", "o": ["Lấy", "Lấy cả áo ngoài", "Làm như vậy", "Làm theo ý nó"], "a": 1},
+  {"n": 70, "q": "“Ai xin, thì hãy cho; ai muốn vay mượn, thì…”. (Mt 5,42)", "o": ["Đừng đòi lại", "Hãy cho họ vay", "Đừng từ chối", "Đừng ngoảnh mặt đi"], "a": 3},
+  {"n": 71, "q": "“Anh em đã nghe Luật dạy rằng: Hãy yêu đồng loại và hãy ghét kẻ thù. Còn Thầy, Thầy bảo anh em: … và cầu nguyện cho những kẻ ngược đãi anh em”. (Mt 5,43-44)", "o": ["Hãy thương xót", "Hãy yêu kẻ thù", "Hãy tha thứ", "Hãy yêu kẻ ác"], "a": 1},
+  {"n": 72, "q": "“Vì nếu anh em yêu thương…, thì anh em nào có công chi? Ngay cả những người thu thuế cũng chẳng làm như thế sao?” (Mt 5,46)", "o": ["Kẻ yêu thương mình", "Người đồng loại", "Người thân cận", "Người anh em"], "a": 0},
+  {"n": 73, "q": "“Nếu anh em chỉ chào hỏi anh em mình thôi, thì anh em có…? Ngay cả người ngoại cũng chẳng làm như thế sao?” (Mt 5,47)", "o": ["Làm gì khác đâu", "Công gì đâu", "Hơn gì người thu thuế đâu", "Làm gì lạ thường đâu"], "a": 3},
+  {"n": 74, "q": "“Vậy anh em hãy nên hoàn thiện, như… là Đấng hoàn thiện.” (Mt 5,48)", "o": ["Thiên Chúa Cha", "Thiên Chúa", "Cha anh em trên trời", "Cha trên trời"], "a": 2},
+  {"n": 75, "q": "“Khi làm việc lành phúc đức, anh em phải coi chừng, … cho thiên hạ thấy. Bằng không, anh em sẽ chẳng được Cha của anh em, Đấng ngự trên trời, ban thưởng”. (Mt 6,1)", "o": ["Đừng", "Đừng để", "Đừng làm để", "Chớ có phô trương"], "a": 3},
+  {"n": 76, "q": "“Còn anh, khi bố thí, đừng cho tay trái biết việc tay phải làm, để việc anh bố thí được kín đáo. Và Cha của anh, … những gì kín đáo, sẽ trả lại cho anh”. (Mt 6,3-4)", "o": ["Đấng biết", "Đấng thấu suốt", "Đấng biết rõ", "Đấng nắm rõ"], "a": 1},
+  {"n": 77, "q": "“Còn anh, khi cầu nguyện, hãy vào phòng, đóng cửa lại, và cầu nguyện cùng Cha của anh, … nơi kín đáo. Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh”. (Mt 6,6)", "o": ["Đấng đang ngự", "Đấng đang ở", "Đấng hiện diện", "Đấng biết những gì"], "a": 2},
+  {"n": 78, "q": "“Khi cầu nguyện, anh em đừng lải nhải như dân ngoại; họ nghĩ rằng: cứ nói nhiều là được nhậm lời. Đừng bắt chước họ, vì Cha anh em đã… anh em cần gì, trước khi anh em cầu xin”. (Mt 6,7-8)", "o": ["Biết rõ", "Thừa biết", "Biết", "Ngầm biết"], "a": 0},
+  {"n": 79, "q": "“Thật vậy, nếu anh em… cho người ta, thì Cha anh em trên trời cũng sẽ tha thứ cho anh em”. (Mt 6,14)", "o": ["Tha thứ", "Tha tội", "Tha nợ", "Tha lỗi"], "a": 3},
+  {"n": 80, "q": "“Còn anh, khi ăn chay, nên rửa mặt cho sạch, chải đầu cho thơm, để không ai thấy là anh ăn chay ngoại trừ…, Đấng hiện diện nơi kín đáo”. (Mt 6,17-18)", "o": ["Thiên Chúa", "Cha của anh", "Thiên Chúa Cha", "Con Người"], "a": 1},
+  {"n": 81, "q": "“Anh em… cho mình những kho tàng dưới đất, nơi mối mọt làm hư nát, và kẻ trộm khoét vách lấy đi”. (Mt 6,19)", "o": ["Đừng tích trữ", "Đừng gom góp", "Đừng tích lũy", "Đừng tìm kiếm"], "a": 0},
+  {"n": 82, "q": "“Đèn của thân thể là con mắt. Vậy nếu mắt anh sáng, thì … sẽ sáng”. (Mt 6,22)", "o": ["Thân thể", "Thân thể của anh", "Toàn thân anh", "Toàn con người anh"], "a": 2},
+  {"n": 83, "q": "“Còn nếu mắt anh xấu, thì toàn thân anh sẽ tối. Vậy nếu ánh sáng nơi anh…, thì tối biết chừng nào!” (Mt 6,23)", "o": ["Lại thành bóng tối", "Trở thành bóng tối", "Ra tối tăm", "Không tỏa sáng"], "a": 0},
+  {"n": 84, "q": "“Không ai có thể làm tôi hai chủ, vì hoặc sẽ ghét chủ này mà yêu chủ kia, hoặc sẽ… với chủ này mà khinh dể chủ nọ. Anh em không thể vừa làm tôi Thiên Chúa vừa làm tôi Tiền Của được”. (Mt 6,24)", "o": ["Gắn kết", "Yêu mến", "Trung thành", "Gắn bó"], "a": 3},
+  {"n": 85, "q": "“Vì vậy Thầy bảo cho anh em biết:…: lấy gì mà ăn; cũng đừng lo cho thân thể: lấy gì mà mặc. Mạng sống chẳng trọng hơn của ăn, và thân thể chẳng trọng hơn áo mặc sao?” (Mt 6,25)", "o": ["Đừng lo", "Đừng quá lo lắng", "Đừng băn khoăn", "Đừng lo cho mạng sống"], "a": 3},
+  {"n": 86, "q": "“Hỏi có ai trong anh em, …, mà kéo dài đời mình thêm được dù chỉ một gang tay?” (Mt 6,27)", "o": ["Nhờ lo lắng", "Nhờ khôn khéo", "Nhờ khôn ngoan", "Nhờ tài đức"], "a": 0},
+  {"n": 87, "q": "“Trước hết hãy tìm kiếm Nước Thiên Chúa và… của Người, còn tất cả những thứ kia, Người sẽ thêm cho”. (Mt 6,33)", "o": ["Sự công chính", "Vương Quốc", "Đức công chính", "Triều Đại"], "a": 2},
+  {"n": 88, "q": "“Vậy, anh em đừng lo lắng…: ngày mai, cứ để ngày mai lo. Ngày nào có cái khổ của ngày ấy.” (Mt 6,34)", "o": ["Cho tương lai", "Gì cả", "Bất cứ điều gì", "Về ngày mai"], "a": 3},
+  {"n": 89, "q": "“Anh em đừng xét đoán,… Thiên Chúa xét đoán, vì anh em xét đoán thế nào, thì anh em cũng sẽ bị Thiên Chúa xét đoán như vậy”. (Mt 7,1-2)", "o": ["Thì không bị", "Sẽ không bị", "Để khỏi bị", "Tất cả đều sai"], "a": 2},
+  {"n": 90, "q": "“Sao anh thấy cái rác trong con mắt của người anh em,… trong con mắt của mình thì lại không để ý tới?” (Mt 7,3)", "o": ["Còn cái đà", "Mà cái xà", "Còn cái xà", "Nhưng cái xà"], "a": 1}
+  ]
+});

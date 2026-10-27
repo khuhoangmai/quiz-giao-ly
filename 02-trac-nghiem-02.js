@@ -1,0 +1,37 @@
+/* Trắc nghiệm khách quan – đề 2 (30 câu) */
+QUIZ.register({
+  id: "tn-02", group: "tn", kind: "fixed",
+  title: "Đề 2", short: "TN đề 2", sub: "Câu 31–60 · 30 câu",
+  questions: [
+  {"n": 31, "q": "“Lập tức, các ông bỏ thuyền, bỏ cha lại mà theo Người”. Câu này nói về cặp anh em nào? (x. Mt 4,21-22)", "o": ["An-rê và Gio-an", "Si-môn và An-rê", "Si-môn và Gia-cô-bê", "Gia-cô-bê và Gio-an"], "a": 3},
+  {"n": 32, "q": "Trong bài giảng về “Tám mối phúc”, người có tâm hồn nghèo khó sẽ được phần thưởng gì? (x. Mt 5,3)", "o": ["Đất Hứa làm gia nghiệp", "Thiên Chúa cho thỏa lòng", "Nước Trời là của họ", "Thiên Chúa ủi an"], "a": 2},
+  {"n": 33, "q": "Trong bài giảng về “Tám mối phúc”, người hiền lành sẽ được phần thưởng gì? (x. Mt 5,4)", "o": ["Nước Trời là của họ", "Đất Hứa làm gia nghiệp", "Thiên Chúa ủi an", "Thiên Chúa xót thương"], "a": 1},
+  {"n": 34, "q": "Trong bài giảng về “Tám mối phúc”, người sầu khổ sẽ được phần thưởng gì? (x. Mt 5,5)", "o": ["Thiên Chúa ủi an", "Thiên Chúa xót thương", "Nước Trời là của họ", "Nhìn thấy Thiên Chúa"], "a": 0},
+  {"n": 35, "q": "Trong bài giảng về “Tám mối phúc”, người khao khát nên người công chính sẽ được phần thưởng gì? (x. Mt 5,6)", "o": ["Thiên Chúa xót thương", "Nhìn thấy Thiên Chúa", "Nước Trời là của họ", "Thiên Chúa cho thỏa lòng"], "a": 3},
+  {"n": 36, "q": "Trong bài giảng về “Tám mối phúc”, người xót thương người sẽ được phần thưởng gì? (x. Mt 5,7)", "o": ["Thiên Chúa xót thương", "Nước Trời là của họ", "Đất Hứa làm gia nghiệp", "Nhìn thấy Thiên Chúa"], "a": 0},
+  {"n": 37, "q": "Trong bài giảng về “Tám mối phúc”, người có tâm hồn trong sạch sẽ được phần thưởng gì? (x. Mt 5,8)", "o": ["Nước Trời là của họ", "Đất Hứa làm gia nghiệp", "Nhìn thấy Thiên Chúa", "Thiên Chúa xót thương"], "a": 2},
+  {"n": 38, "q": "Trong bài giảng về “Tám mối phúc”, người xây dựng hòa bình sẽ được phần thưởng gì? (x. Mt 5,9)", "o": ["Được gọi là con Thiên Chúa", "Thiên Chúa xót thương", "Đất Hứa làm gia nghiệp", "Nước Trời là của họ"], "a": 0},
+  {"n": 39, "q": "Trong bài giảng về “Tám mối phúc”, người bị bách hại vì sống công chính sẽ được phần thưởng gì? (x. Mt 5,10)", "o": ["Đất Hứa làm gia nghiệp", "Nước Trời là của họ", "Thiên Chúa xót thương", "Được gọi là Con Thiên Chúa"], "a": 1},
+  {"n": 40, "q": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai giận anh em mình, thì hậu quả sẽ ra sao? (x. Mt 5,22)", "o": ["Bị đưa ra trước Thượng Hội Đồng", "Bị đưa ra tòa", "Lửa hỏa ngục thiêu đốt", "Tất cả đều đúng"], "a": 1},
+  {"n": 41, "q": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai mắng anh em mình là đồ ngốc, thì hậu quả sẽ ra sao? (x. Mt 5,22)", "o": ["Lửa hỏa ngục thiêu đốt", "Bị đưa ra tòa", "Bị đưa ra trước Thượng Hội Đồng", "Tất cả đều đúng"], "a": 2},
+  {"n": 42, "q": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai chửi anh em mình là quân phản đạo, thì hậu quả sẽ ra sao? (x. Mt 5,22)", "o": ["Đáng bị lửa hỏa ngục thiêu đốt", "Bị đưa ra tòa", "Bị đưa ra trước Thượng Hội Đồng", "Tất cả đều đúng"], "a": 0},
+  {"n": 43, "q": "Đức Giê-su cảnh báo các môn đệ hãy coi chừng hạng người “đội lốt chiên mà đến với anh em; nhưng bên trong, họ là sói dữ tham mồi”. Hạng người này là ai? (x. Mt 7,15)", "o": ["Ngôn sứ giả", "Người Pha-ri-sêu", "Các Kinh sư", "Cả B và C"], "a": 0},
+  {"n": 44, "q": "Đức Giê-su nói: “Vậy ai nghe những lời Thầy nói đây mà đem ra thực hành”, thì ví được như hạng người nào? (x. Mt 7,24)", "o": ["Người ngu dại xây nhà trên cát", "Người khôn xây nhà trên đá", "Kẻ đạo đức giả", "Kẻ giả hình"], "a": 1},
+  {"n": 45, "q": "Đức Giê-su nói: “Còn ai nghe những lời Thầy nói đây, mà chẳng đem ra thực hành”, thì ví được như hạng người nào? (x. Mt 7,26)", "o": ["Kẻ đạo đức giả", "Người khôn xây nhà trên đá", "Người ngu dại xây nhà trên cát", "Kẻ giả hình"], "a": 2},
+  {"n": 46, "q": "“Thưa Ngài, nếu Ngài muốn, Ngài có thể làm cho tôi được sạch.” Ai đã nói câu này? (x. Mt 8,1-2)", "o": ["Người bị thần ô uế ám", "Người đàn bà bị rong huyết", "Một người mắc bệnh phong", "Tất cả đều sai"], "a": 2},
+  {"n": 47, "q": "“Người giơ tay đụng vào anh và bảo: “Tôi muốn, anh sạch đi.” Đức Giê-su nói lời này với ai? (x. Mt 8,3)", "o": ["Một người mắc bệnh phong", "Người bị thần ô uế ám", "Mười người phong cùi", "Tất cả đều sai"], "a": 0},
+  {"n": 48, "q": "“Thưa Ngài, tên đầy tớ của tôi bị tê bại nằm liệt ở nhà, đau đớn lắm.” Ai đã nói câu này? (x. Mt 8,5-6)", "o": ["Viên đại đội trưởng", "Ông trưởng hội đường", "Viên sĩ quan cận vệ", "Tất cả đều đúng"], "a": 0},
+  {"n": 49, "q": "“Tôi bảo thật các ông: tôi không thấy một người Ít-ra-en nào có lòng tin như thế”. Đức Giê-su nói lời này về ai? (x. Mt 8,5-10)", "o": ["Người phụ nữ Ca-na-an", "Ông trưởng hội đường", "Viên đại đội trưởng", "Người bại liệt"], "a": 2},
+  {"n": 50, "q": "“Ông cứ về đi! Ông tin thế nào thì được như vậy!” Đức Giê-su nói lời này với ai? (x. Mt 8,13)", "o": ["Ông trưởng hội đường", "Người bại liệt", "Người bị quỷ ám", "Viên đại đội trưởng"], "a": 3},
+  {"n": 51, "q": "Người đã mang lấy các tật nguyền của ta và gánh lấy các bệnh hoạn của ta”. Ngôn sứ nào đã nói câu này? (x. Mt 8,16-17)", "o": ["I-sai-a", "Giê-rê-mi-a", "Hô-sê", "Ma-la-khi"], "a": 0},
+  {"n": 52, "q": "“Thưa Thầy, Thầy đi đâu, tôi cũng xin đi theo.” Ai đã nói câu này? (x. Mt 8,19)", "o": ["Người thanh niên giàu có", "Một kinh sư", "Người bị quỷ ám", "Anh mù từ khi mới sinh"], "a": 1},
+  {"n": 53, "q": "“Con chồn có hang, chim trời có tổ, nhưng Con Người không có chỗ tựa đầu.” Đức Giê-su nói câu này với ai? (x. Mt 8,20)", "o": ["Ông Ni-cô-đê-mô", "Người phụ nữ Sa-ma-ri", "4 môn đệ đầu tiên", "Một kinh sư"], "a": 3},
+  {"n": 54, "q": "“Thưa Ngài, xin cho phép con về chôn cất cha con trước đã.” Ai đã nói câu này? (x. Mt 8,21)", "o": ["Một môn đệ khác", "Một kinh sư", "Người thanh niên giàu có", "Người bị quỷ ám"], "a": 0},
+  {"n": 55, "q": "“Anh hãy đi theo tôi, cứ để kẻ chết chôn kẻ chết của họ.” Đức Giê-su nói câu này với ai? (x. Mt 8,22)", "o": ["Một kinh sư", "Người thanh niên giàu có", "Một môn đệ khác", "Người bị quỷ ám"], "a": 2},
+  {"n": 56, "q": "“Sao nhát thế, hỡi những người kém lòng tin!” Đức Giê-su nói câu này với ai? (x. Mt 8,23-26)", "o": ["Si-môn và An-rê", "Các môn đệ", "Gia-cô-bê và Gio-an", "Những người Pha-ri-sêu"], "a": 1},
+  {"n": 57, "q": "Đức Giê-su chữa hai người bị quỷ ám ở đâu? (x. Mt 8,28)", "o": ["Ghen-nê-xa-rét", "Ga-đa-ra", "Ca-phác-na-um", "Xê-da-rê Phi-líp-phê"], "a": 1},
+  {"n": 58, "q": "Sau phép lạ Đức Giê-su trừ quỷ ở Ga-đa-ra, cả thành ra đón Đức Giê-su. Khi gặp Người, họ đã xin Người điều gì? (x. Mt 8,34)", "o": ["Ở lại với họ", "Giảng cho họ nghe", "Rời khỏi vùng đất của họ", "Chữa lành bệnh tật"], "a": 2},
+  {"n": 59, "q": "“Này con, cứ yên tâm, con đã được tha tội rồi!” Đức Giê-su nói câu này với ai? (x. Mt 9,2)", "o": ["Anh mù Ba-ti-mê", "Người đàn bà bị rong huyết", "Người mù từ khi mới sinh", "Người bại liệt"], "a": 3},
+  {"n": 60, "q": "“Sao các ông lại nghĩ xấu trong bụng như vậy? Trong hai điều: một là bảo: ‘Con đã được tha tội rồi’, hai là bảo: ‘Đứng dậy mà đi’, điều nào dễ hơn? Đức Giê-su nói câu này với ai? (x. Mt 9,4-5)", "o": ["Những người Do-thái", "Mấy kinh sư", "Người Pha-ri-sêu", "Cả A, B và C"], "a": 1}
+  ]
+});

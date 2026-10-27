@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 10 (30 câu) */
+QUIZ.register({
+  id: "dt-10", group: "dt", kind: "fixed",
+  title: "Đề 10", short: "Điền từ đề 10", sub: "Câu 271–300 · 30 câu",
+  questions: [
+  {"n": 271, "q": "“Còn về ngày và giờ đó thì không ai biết được, ngay cả các thiên sứ trên trời hay cả người Con cũng không; … Chúa Cha biết mà thôi”. (Mt 24,36)", "o": ["Duy chỉ có", "Chỉ mình", "Chỉ một mình", "Chỉ có"], "a": 2},
+  {"n": 272, "q": "“Vậy anh em hãy…, vì anh em không biết ngày nào Chúa của anh em đến”. (Mt 24,42)", "o": ["Tỉnh thức", "Canh thức", "Sẵn sàng", "Cả A và C"], "a": 1},
+  {"n": 273, "q": "“Anh em hãy biết điều này: nếu chủ nhà biết… kẻ trộm sẽ đến, hẳn ông đã thức, không để nó khoét vách nhà mình đâu”. (Mt 24,43)", "o": ["Vào canh nào", "Lúc nào", "Khi nào", "Chắc khi nào"], "a": 0},
+  {"n": 274, "q": "“Cho nên anh em cũng vậy, anh em hãy sẵn sàng, vì chính giờ phút anh em…, thì Con Người sẽ đến”. (Mt 24,44)", "o": ["Đang ngủ", "Coi thường", "Không ngờ", "Lơ là"], "a": 2},
+  {"n": 275, "q": "“Vậy anh em hãy…, vì anh em không biết ngày nào, giờ nào”. (Mt 25,13)", "o": ["Tỉnh thức", "Canh thức", "Sẵn sàng", "Cả A và C"], "a": 1},
+  {"n": 276, "q": "“Vì phàm ai đã có, thì được cho thêm và…; còn ai không có, thì ngay cái đang có, cũng sẽ bị lấy đi”. (Mt 25,29)", "o": ["Nhiều thêm mãi", "Được dư thừa", "Được dư dật", "Sẽ có dư thừa"], "a": 3},
+  {"n": 277, "q": "“‘Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những …của Ta đây, là các ngươi đã làm cho chính Ta vậy.’ (Mt 25,40)", "o": ["Người anh em", "Anh em bé nhỏ nhất", "Người bé mọn", "Người bé mọn nhất"], "a": 1},
+  {"n": 278, "q": "“Người nghèo thì lúc nào anh em cũng có với anh em; còn Thầy, thì không phải lúc nào…!” (Mt 26,11)", "o": ["Anh em cũng có đâu", "Cũng ở bên anh em đâu", "Anh em cũng gặp đâu", "Anh em cũng thấy đâu"], "a": 0},
+  {"n": 279, "q": "“Các anh đi vào thành, đến nhà một người kia và nói với ông ấy: ‘Thầy nhắn:…, Thầy sẽ đến nhà ông để ăn mừng lễ Vượt Qua với các môn đệ của Thầy.’” (Mt 26,18)", "o": ["Này ông", "Này đây", "Thời của Thầy đã gần tới", "Nội trong hôm nay"], "a": 2},
+  {"n": 280, "q": "“Đang bữa ăn, Người nói: “Thầy bảo thật anh em, một người trong anh em sẽ...” (Mt 26,21)", "o": ["Bán đứng Thầy", "Nộp Thầy", "Phản bội Thầy", "Phản Thầy"], "a": 1},
+  {"n": 281, "q": "“Cũng trong bữa ăn, Đức Giê-su cầm lấy bánh,…, rồi bẻ ra, trao cho môn đệ và nói: “Anh em cầm lấy mà ăn, đây là mình Thầy.” (Mt 26,26)", "o": ["Dâng lời tạ ơn", "Ngước mắt lên trời", "Dâng lời chúc tụng", "Chúc tụng Thiên Chúa"], "a": 2},
+  {"n": 282, "q": "“Tất cả anh em hãy uống chén này, vì đây là máu Thầy, máu Giao Ước, đổ ra cho… được tha tội”. (Mt 26,27-28)", "o": ["Nhiều người", "Hết mọi người", "Muôn dân", "Muôn người"], "a": 3},
+  {"n": 283, "q": "“Thầy bảo cho anh em biết: từ nay, Thầy không còn uống thứ sản phẩm này của cây nho, cho đến ngày Thầy cùng anh em uống thứ rượu mới trong ...” (Mt 26,29)", "o": ["Nước Thiên Chúa", "Nước của Cha Thầy", "Nước Trời", "Vương quốc của Cha Thầy"], "a": 1},
+  {"n": 284, "q": "“Đêm nay tất cả anh em sẽ vấp ngã vì Thầy. Vì có lời đã chép: Ta sẽ đánh người chăn chiên, và… sẽ tan tác”. (Mt 26,31)", "o": ["Đàn chiên", "Cả đàn chiên", "Cả chủ chiên và chiên", "Chúng"], "a": 0},
+  {"n": 285, "q": "“Ông Phê-rô liền thưa: “Dầu tất cả có vấp ngã vì Thầy đi nữa, thì con đây cũng… vấp ngã.” (Mt 26,33)", "o": ["Không bao giờ", "Chẳng bao giờ", "Không đời nào", "Chẳng khi nào"], "a": 1},
+  {"n": 286, "q": "“Đức Giê-su bảo ông: “Thầy bảo thật anh: nội đêm nay,…, thì anh đã chối Thầy ba lần.” (Mt 26,34)", "o": ["Khi gà chưa gáy", "Gà chưa gáy lần thứ ba", "Gà gáy lần thứ ba", "Gà chưa kịp gáy"], "a": 3},
+  {"n": 287, "q": "“Bấy giờ Người nói với các ông: “Tâm hồn Thầy buồn đến chết được. Anh em ở lại đây mà… với Thầy.” (Mt 26,38)", "o": ["Thức", "Cùng cầu nguyện", "Canh thức", "Cùng canh thức"], "a": 2},
+  {"n": 288, "q": "“Lạy Cha, nếu có thể được, xin cho con khỏi phải uống chén này. Tuy vậy,…, mà xin theo ý Cha.” (Mt 26,39)", "o": ["Đừng theo ý con", "Xin đừng theo ý con", "Xin Cha đừng theo ý con", "Con không xin theo ý con"], "a": 1},
+  {"n": 289, "q": "“Thế ra anh em không thể… với Thầy một giờ sao?” (Mt 26,40)", "o": ["Canh thức nổi", "Canh thức", "Thức nổi", "Thức"], "a": 0},
+  {"n": 290, "q": "“Anh em hãy canh thức và cầu nguyện, để khỏi lâm vào cơn cám dỗ. Vì tinh thần thì…, nhưng thể xác lại...” (Mt 26,41)", "o": ["Hăng say/ yếu hèn", "Hăng hái/ yếu đuối", "Mạnh mẽ/ yếu hèn", "Hăng say/ yếu đuối"], "a": 0},
+  {"n": 291, "q": "“Này, đến giờ Con Người bị nộp vào tay... Đứng dậy, ta đi nào! Kìa kẻ nộp Thầy đã tới !” (Mt 26,45-46)", "o": ["Quân tội lỗi", "Bọn người tội lỗi", "Những kẻ tội lỗi", "Người đời"], "a": 2},
+  {"n": 292, "q": "“Đức Giê-su bảo người ấy: “Hãy xỏ gươm vào vỏ, vì tất cả những ai cầm gươm sẽ…”. (Mt 26,52)", "o": ["Bị chết vì gươm", "Chết vì gươm", "Chịu chết vì gươm", "Mất mạng vì gươm"], "a": 1},
+  {"n": 293, "q": "“Từ nay, các ông sẽ thấy Con Người ngự bên hữu… và ngự giá mây trời mà đến.” (Mt 26,64)", "o": ["Thiên Chúa", "Chúa Cha", "Đức Vua", "Đấng Toàn Năng"], "a": 3},
+  {"n": 294, "q": "“Ông Phê-rô sực nhớ lời Đức Giê-su đã nói: “…thì anh đã chối Thầy ba lần.” Ông ra ngoài, khóc lóc thảm thiết”. (Mt 26,75)", "o": ["Trước khi gà gáy", "Khi gà gáy lần thứ ba", "Gà chưa kịp gáy", "Khi gà chưa gáy lần thứ ba"], "a": 2},
+  {"n": 295, "q": "“Phía trên đầu Người, chúng đặt bản án xử tội viết rằng: “Người này là Giê-su,…” (Mt 27,37)", "o": ["Vua Do-thái", "Vua dân Do-thái", "Vua người Do-thái", "Đức vua dân Do-thái"], "a": 1},
+  {"n": 296, "q": "“Này các bà, các bà đừng sợ! Tôi biết các bà tìm Đức Giê-su, Đấng bị đóng đinh. Người không có ở đây, vì… như Người đã nói”. (Mt 28,5-6)", "o": ["Người đã trỗi dậy", "Người đã lên trời", "Người đã sống lại", "Người đã phục sinh"], "a": 0},
+  {"n": 297, "q": "“Người đã trỗi dậy từ cõi chết, và Người đi Ga-li-lê trước các ông. Ở đó, các ông sẽ được…”. (Mt 28,7)", "o": ["Thấy Người", "Thấy mặt Người", "Gặp Người", "Gặp lại Người"], "a": 0},
+  {"n": 298, "q": "“Bấy giờ, Đức Giê-su nói với các bà: “… Về báo cho anh em của Thầy để họ đến Ga-li-lê. Họ sẽ được thấy Thầy ở đó.” (Mt 28,10)", "o": ["Này chị em", "Đừng sợ", "Chị em đừng sợ!", "Này, chị em đừng sợ!"], "a": 2},
+  {"n": 299, "q": "“Mười một môn đệ đi tới miền Ga-li-lê, đến ngọn núi Đức Giê-su đã truyền cho các ông đến. Khi thấy Người,…, nhưng có mấy ông lại hoài nghi”. (Mt 28,16-17)", "o": ["Họ rất đỗi vui mừng", "Các ông bái lạy", "Họ vô cùng vui sướng", "Các ông ngạc nhiên"], "a": 1},
+  {"n": 300, "q": "“Đức Giê-su đến gần, nói với các ông: “Thầy đã được… trên trời dưới đất”. (Mt 28,18)", "o": ["Ban toàn quyền", "Ban mọi quyền hành", "Trao toàn quyền", "Trao mọi quyền hành"], "a": 2}
+  ]
+});

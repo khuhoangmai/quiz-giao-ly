@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f97316">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<title>Làm bài – Ôn tập Giáo lý</title>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Về trang chủ"><img class="logo" src="assets/logo.png" alt="Logo nhóm Sinh viên Công giáo Thái Bình - Hà Nội"></a>
+  <div class="titles">
+    <div class="kicker" id="kicker"></div>
+    <h1 id="setTitle"></h1>
+  </div>
+  <a class="back-btn" href="index.html" aria-label="Về trang chủ">‹<span class="hide-sm"> Trang chủ</span></a>
+  <button id="soundBtn" class="icon-btn" type="button" aria-pressed="true" title="Bật/tắt âm thanh">🔊</button>
+</header>
+
+<main class="wrap">
+  <section class="card progress">
+    <div class="stats">
+      <span id="stAnswered"></span>
+      <span class="ok" id="stOk"></span>
+      <span class="bad" id="stBad"></span>
+      <button id="finishBtn" class="finish-btn" type="button" hidden>Xem kết quả</button>
+      <span class="pct" id="stPct"></span>
+    </div>
+    <div class="bar" id="bar"><i id="barFill"></i></div>
+    <details class="nav">
+      <summary>Danh sách câu hỏi</summary>
+      <div id="dots" class="dots"></div>
+    </details>
+  </section>
+
+  <div class="retry-banner" id="retryBanner" hidden>Đang luyện lại các câu làm sai – phần này không tính vào tiến độ chính.</div>
+
+  <section class="card qcard">
+    <div class="qmeta" id="qmeta"></div>
+    <h2 class="qtext" id="qtext"></h2>
+    <div class="opts" id="opts"></div>
+    <div class="feedback" id="feedback" aria-live="polite"></div>
+    <div class="nav-btns">
+      <button id="prev" class="btn" type="button">‹ Câu trước</button>
+      <button id="next" class="btn primary" type="button">Câu tiếp ›</button>
+    </div>
+  </section>
+
+  <p class="footer-note"><button id="restartBtn" class="link-btn" type="button">Làm lại bộ này từ đầu</button> · Phím tắt: A–D hoặc 1–4 để chọn, ← → để chuyển câu</p>
+</main>
+
+<div class="overlay" id="result" hidden>
+  <div class="result" role="dialog" aria-modal="true" aria-labelledby="resTitle">
+    <div class="ring" id="ring"><div id="ringText">0%</div></div>
+    <h3 id="resTitle"></h3>
+    <p class="sub" id="resSub"></p>
+    <div id="wrongList" class="wrong-list"></div>
+    <div class="btns">
+      <button id="btnRetryWrong" class="btn primary" type="button">Luyện lại câu sai</button>
+      <button id="btnAgain" class="btn" type="button">Làm lại từ đầu</button>
+      <button id="btnBackMain" class="btn" type="button" hidden>Quay lại bài chính</button>
+      <a class="btn" href="index.html" style="text-decoration:none">Trang chủ</a>
+      <button id="btnClose" class="btn" type="button">Đóng</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/core.js"></script>
+  <script src="data/01-de-cuong.js"></script>
+  <script src="data/02-trac-nghiem-01.js"></script>
+  <script src="data/02-trac-nghiem-02.js"></script>
+  <script src="data/02-trac-nghiem-03.js"></script>
+  <script src="data/02-trac-nghiem-04.js"></script>
+  <script src="data/02-trac-nghiem-05.js"></script>
+  <script src="data/02-trac-nghiem-06.js"></script>
+  <script src="data/02-trac-nghiem-random.js"></script>
+  <script src="data/03-dien-tu-01.js"></script>
+  <script src="data/03-dien-tu-02.js"></script>
+  <script src="data/03-dien-tu-03.js"></script>
+  <script src="data/03-dien-tu-04.js"></script>
+  <script src="data/03-dien-tu-05.js"></script>
+  <script src="data/03-dien-tu-06.js"></script>
+  <script src="data/03-dien-tu-07.js"></script>
+  <script src="data/03-dien-tu-08.js"></script>
+  <script src="data/03-dien-tu-09.js"></script>
+  <script src="data/03-dien-tu-10.js"></script>
+  <script src="data/03-dien-tu-random.js"></script>
+  <script src="data/04-luoc-su-01.js"></script>
+  <script src="data/04-luoc-su-02.js"></script>
+  <script src="data/04-luoc-su-03.js"></script>
+  <script src="data/04-luoc-su-04.js"></script>
+  <script src="data/04-luoc-su-random.js"></script>
+<script src="js/quiz.js"></script>
+</body>
+</html>

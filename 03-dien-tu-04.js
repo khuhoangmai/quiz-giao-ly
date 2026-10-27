@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 4 (30 câu) */
+QUIZ.register({
+  id: "dt-04", group: "dt", kind: "fixed",
+  title: "Đề 4", short: "Điền từ đề 4", sub: "Câu 91–120 · 30 câu",
+  questions: [
+  {"n": 91, "q": "“Hỡi…! Lấy cái xà ra khỏi mắt anh trước đã, rồi anh sẽ thấy rõ, để lấy cái rác ra khỏi mắt người anh em”. (Mt 7,5)", "o": ["Kẻ giả hình", "Bọn giả hình", "Quân tội lỗi", "Kẻ đạo đức giả"], "a": 3},
+  {"n": 92, "q": "“…, đừng quăng cho chó; ngọc trai, chớ liệng cho heo, kẻo chúng giày đạp dưới chân, rồi còn quay lại cắn xé anh em”. (Mt 7,6)", "o": ["Miếng ngon", "Của ngon", "Của thánh", "Vàng bạc"], "a": 2},
+  {"n": 93, "q": "“Anh em cứ xin thì sẽ được, cứ tìm thì sẽ thấy, cứ gõ cửa thì sẽ… (Mt 7,7)", "o": ["Mở cho", "Mở ra cho", "Người sẽ mở cho", "Tất cả đều đúng"], "a": 1},
+  {"n": 94, "q": "“Vậy nếu anh em… mà còn biết cho con cái mình những của tốt lành, phương chi Cha anh em, Đấng ngự trên trời, lại không ban những của tốt lành cho những kẻ kêu xin Người sao?” (Mt 7,11)", "o": ["Là những người xấu", "Là những kẻ xấu", "Là kẻ xấu xa", "Vốn là những kẻ xấu"], "a": 3},
+  {"n": 95, "q": "“Vậy tất cả những gì anh em muốn người ta làm cho mình, thì… cũng hãy làm cho người ta, vì Luật Mô-sê và lời các ngôn sứ là thế đó”. (Mt 7,12)", "o": ["Chính anh em", "Anh em", "Cả anh em nữa", "Tất cả đều sai"], "a": 0},
+  {"n": 96, "q": "“Hãy qua cửa hẹp mà vào, vì cửa rộng và đường thênh thang thì…, mà nhiều người lại đi qua đó”. (Mt 7,13)", "o": ["Dẫn đến diệt vọng", "Dẫn đến hư vong", "Đưa đến diệt vong", "Tất cả đều sai"], "a": 2},
+  {"n": 97, "q": "“Anh em hãy coi chừng…, họ đội lốt chiên mà đến với anh em; nhưng bên trong, họ là sói dữ tham mồi”. (Mt 7,15)", "o": ["Các kinh sư", "Người Pha-ri-sêu", "Cả A và B", "Các ngôn sứ giả"], "a": 3},
+  {"n": 98, "q": "“Cây nào không sinh quả tốt, thì bị chặt đi và quăng vào lửa. Vậy, cứ xem họ…, thì biết họ là ai”. (Mt 7,19-20)", "o": ["Sống như thế nào", "Sống ra sao", "Sinh hoa quả nào", "Sinh trái nào"], "a": 2},
+  {"n": 99, "q": "“Không phải bất cứ ai thưa với Thầy: ‘Lạy Chúa! Lạy Chúa!’ là được vào Nước Trời cả đâu! Nhưng chỉ ai… ý muốn của Cha Thầy là Đấng ngự trên trời, mới được vào mà thôi”. (Mt 7,21)", "o": ["Thi hành", "Làm theo", "Thực hành", "Mau mắn thi hành"], "a": 0},
+  {"n": 100, "q": "“Và bấy giờ Thầy sẽ tuyên bố với họ:… các ngươi; xéo đi cho khuất mắt Ta, hỡi bọn làm điều gian ác!” (Mt 7,23)", "o": ["Ta không biết", "Tất cả", "Tất cả lũ khốn", "Ta không hề biết"], "a": 3},
+  {"n": 101, "q": "“Vậy ai nghe những lời Thầy nói đây mà…, thì ví được như người khôn xây nhà trên đá”. (Mt 7,24)", "o": ["Làm theo", "Đem ra thực hành", "Mau mắn thi hành", "Ghi nhớ trong lòng"], "a": 1},
+  {"n": 102, "q": "“Còn ai nghe những lời Thầy nói đây, mà chẳng đem ra thực hành, thì ví được như… xây nhà trên cát.” (Mt 7,26)", "o": ["Người ngu", "Người khờ dại", "Người kia", "Người ngu dại"], "a": 3},
+  {"n": 103, "q": "“Khi Đức Giê-su giảng dạy những điều ấy xong, dân chúng sửng sốt về lời giảng dạy của Người, vì Người giảng dạy như…, chứ không như các kinh sư của họ”. (Mt 7,28- 29)", "o": ["Đấng có uy quyền", "Người có thẩm quyền", "Đấng đầy uy quyền", "Một Đấng có thẩm quyền"], "a": 3},
+  {"n": 104, "q": "“Bỗng có một người mắc bệnh phong tiến lại, bái lạy Người và nói: “Thưa Ngài, nếu Ngài muốn, Ngài có thể...” (Mt 8,2)", "o": ["Làm cho tôi thấy được", "Cho tôi được thấy", "Làm cho tôi được sạch", "Chữa tôi lành sạch"], "a": 2},
+  {"n": 105, "q": "“Người giơ tay đụng vào anh và bảo: “…, anh sạch đi.” (Mt 8,3)", "o": ["Tội anh đã được tha", "Này anh", "Lòng tin của anh cứu chữa anh", "Tôi muốn"], "a": 3},
+  {"n": 106, "q": "“Rồi Đức Giê-su bảo anh: “Coi chừng, đừng nói với ai cả, nhưng hãy đi trình diện tư tế và dâng của lễ, như ông Mô-sê đã truyền, để… cho người ta biết.” (Mt 8,4)", "o": ["Làm chứng", "Loan truyền", "Công bố", "Loan báo"], "a": 0},
+  {"n": 107, "q": "“Viên đại đội trưởng đáp: “Thưa Ngài, tôi chẳng đáng Ngài vào nhà tôi, nhưng xin Ngài chỉ nói một lời là...” (Mt 8,8)", "o": ["Linh hồn tôi sẽ lành mạnh", "Đầy tớ tôi được khỏi bệnh", "Linh hồn tôi sẽ được sạch", "Tôi tớ Ngài sẽ được khỏi"], "a": 1},
+  {"n": 108, "q": "“Đức Giê-su trả lời: “Con chồn có hang, chim trời có tổ, nhưng Con Người...” (Mt 8,20)", "o": ["Chẳng có nơi gối đầu", "Chẳng tìm được nơi tựa đầu", "Không có nơi gối đầu", "Không có chỗ tựa đầu"], "a": 3},
+  {"n": 109, "q": "“Đức Giê-su bảo: “Anh hãy…, cứ để kẻ chết chôn kẻ chết của họ.” (Mt 8,22)", "o": ["Đi theo tôi", "Theo tôi", "Làm môn đệ tôi", "Đi loan báo Tin Mừng"], "a": 0},
+  {"n": 110, "q": "“Các ông lại gần đánh thức Người và nói: “Thưa Ngài, …, chúng con chết mất!” (Mt 8,25)", "o": ["Xin cứu giúp con", "Xin cứu chúng con", "Xin hãy ra tay", "Xin thương xót chúng con"], "a": 1},
+  {"n": 111, "q": "“Đức Giê-su nói: “Sao nhát thế, hỡi những người…!” Rồi Người trỗi dậy, ngăm đe gió và biển: biển liền lặng như tờ”. (Mt 8,26)", "o": ["Cứng lòng", "Nhát đảm", "Kém lòng tin", "Cứng lòng tin"], "a": 2},
+  {"n": 112, "q": "“Người ta ngạc nhiên và nói: “Ông này là người thế nào mà cả đến gió và biển cũng…?” (Mt 8,27)", "o": ["Phải khiếp sợ", "Kinh khiếp", "Phải kinh sợ", "Tuân lệnh"], "a": 3},
+  {"n": 113, "q": "“Hỡi…, chuyện chúng tôi can gì đến ông? Chưa tới lúc mà ông đã đến đây làm khổ chúng tôi sao?” (Mt 8,29)", "o": ["Con Thiên Chúa", "Ông Giê-su", "Ông Giê-su Na-da-rét", "Tất cả đều sai"], "a": 0},
+  {"n": 114, "q": "“Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt: “Này con, cứ yên tâm,…” (Mt 9,2)", "o": ["Con đã được tha tội rồi!", "Tội con đã được tha!", "Tội của con đã được tha!", "Đừng sợ"], "a": 0},
+  {"n": 115, "q": "“Hãy về học cho biết ý nghĩa của câu này: Ta muốn… chứ đâu cần lễ tế. Vì tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi.” (Mt 9,13)", "o": ["Tấm lòng", "Lòng yêu mến", "Lòng nhân", "Lòng khiêm nhường"], "a": 2},
+  {"n": 116, "q": "“Đức Giê-su trả lời: “Chẳng lẽ khách dự tiệc cưới lại có thể than khóc, khi chàng rể còn ở với họ? Nhưng khi tới ngày chàng rể…, bấy giờ họ mới ăn chay”. (Mt 9,15)", "o": ["Được đem đi rồi", "Bị đem đi rồi", "Đã đi khỏi rồi", "Đã ra đi rồi"], "a": 1},
+  {"n": 117, "q": "“Đang khi Đức Giê-su ra khỏi nơi đó, thì có hai người mù đi theo kêu lên rằng: “Lạy Con vua Đa-vít,… chúng tôi!” (Mt 9,27)", "o": ["Xin rủ lòng thương", "Xin thương", "Xin thương đến", "Xin thương xót"], "a": 3},
+  {"n": 118, "q": "“Người nghiêm giọng bảo họ: “Coi chừng, đừng cho ai biết!” Nhưng vừa ra khỏi đó, họ đã… trong khắp cả vùng”. (Mt 9,30-31)", "o": ["Nói về Người", "Tung tin", "Loan tin vui", "Loan tin"], "a": 0},
+  {"n": 119, "q": "“Đức Giê-su thấy đám đông thì…, vì họ lầm than vất vưởng, như bầy chiên không người chăn dắt”. (Mt 9,36)", "o": ["Chạnh lòng thương", "Rủ lòng thương", "Cảm thương", "Liền chạnh lòng thương"], "a": 0},
+  {"n": 120, "q": "“Bấy giờ, Người nói với môn đệ rằng: “Lúa chín đầy đồng, mà thợ gặt lại ít. Vậy anh em hãy… sai thợ ra gặt lúa về.” (Mt 9,37-38)", "o": ["Ra đi", "Cầu xin chủ ruộng", "Xin chủ mùa gặt", "Xin Thiên Chúa"], "a": 2}
+  ]
+});

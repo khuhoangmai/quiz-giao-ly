@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 8 (30 câu) */
+QUIZ.register({
+  id: "dt-08", group: "dt", kind: "fixed",
+  title: "Đề 8", short: "Điền từ đề 8", sub: "Câu 211–240 · 30 câu",
+  questions: [
+  {"n": 211, "q": "“Ấy vậy, Cha của Thầy ở trên trời cũng sẽ đối xử với anh em như thế, nếu mỗi người trong anh em không… cho anh em mình.” (Mt 18,35)", "o": ["Hết lòng tha thứ", "Tha thứ", "Chấp nhận tha thứ", "Bằng lòng tha thứ"], "a": 0},
+  {"n": 212, "q": "‘Thuở ban đầu, Đấng Tạo Hoá đã làm ra con người có nam có nữ’, và Người đã phán: ‘Vì thế, người ta sẽ lìa cha mẹ mà gắn bó với vợ mình, và cả hai sẽ thành...’ (Mt 19,4- 5)", "o": ["Một gia đình", "Một xương một thịt", "Một cặp vợ chồng", "Một đôi vợ chồng"], "a": 1},
+  {"n": 213, "q": "Vậy, sự gì Thiên Chúa đã phối hợp, loài người...” (Mt 19,6)", "o": ["Không được phép phân ly", "Không tự ý phân ly", "Không được phân ly", "Không được chia lìa"], "a": 2},
+  {"n": 214, "q": "“Vì các ông lòng chai dạ đá, nên ông Mô-sê đã cho phép các ông rẫy vợ, chứ thuở ban đầu,…”. (Mt 19,8)", "o": ["Không có thế đâu", "Không như vậy", "Không được phân ly", "Không được phép"], "a": 0},
+  {"n": 215, "q": "“Tôi nói cho các ông biết: Ngoại trừ trường hợp hôn nhân bất hợp pháp, ai rẫy vợ mà cưới vợ khác là...” (Mt 19,9)", "o": ["Kẻ ngoại tình", "Mắc tội ngoại tình", "Đi ngoại tình", "Phạm tội ngoại tình"], "a": 3},
+  {"n": 216, "q": "“Cứ để trẻ em đến với Thầy, …, vì Nước Trời là của những ai giống như chúng.” (Mt 19,14)", "o": ["Đừng ngăn cấm chúng", "Đừng cản chúng", "Đừng xua đuổi chúng", "Đừng đe dọa chúng"], "a": 0},
+  {"n": 217, "q": "“Thưa Thầy, tôi… để được hưởng sự sống đời đời?” (Mt 19,16)", "o": ["Phải làm gì", "Phải làm điều gì tốt", "Sẽ làm gì", "Nên làm gì"], "a": 1},
+  {"n": 218, "q": "“Nếu anh muốn nên hoàn thiện, thì hãy đi bán tài sản của anh và đem cho người nghèo, anh sẽ được... Rồi hãy đến theo tôi.” (Mt 19,21)", "o": ["Thảnh thơi", "Thanh thỏa", "Một kho tàng trên trời", "Yên hàn"], "a": 2},
+  {"n": 219, "q": "“Thầy còn nói cho anh em biết: con lạc đà chui qua lỗ kim còn dễ hơn …vào Nước Thiên Chúa.” (Mt 19,24)", "o": ["Kẻ giàu có", "Kẻ lắm của", "Người giàu có", "Người giàu"], "a": 3},
+  {"n": 220, "q": "“Và phàm ai bỏ nhà cửa, anh em, chị em, cha mẹ, con cái hay ruộng đất, vì danh Thầy, thì sẽ được gấp bội và còn được… làm gia nghiệp”. (Mt 19,29)", "o": ["Sự sống đời đời", "Sự sống vĩnh cửu", "Sự sống đời sau", "Nước Trời"], "a": 1},
+  {"n": 221, "q": "“Nhiều kẻ đứng đầu sẽ phải xuống hàng chót, và… sẽ được lên hàng đầu.” (Mt 19,30)", "o": ["Nhiều kẻ đứng chót", "Kẻ đứng chót", "Kẻ sau hết", "Kẻ đứng rốt hết"], "a": 0},
+  {"n": 222, "q": "“Thế là những kẻ đứng chót sẽ được…, còn những kẻ đứng đầu sẽ phải xuống hàng chót”. (Mt 20,16)", "o": ["Đứng hàng đầu", "Ngồi lên hàng đầu", "Đứng lên hàng đầu", "Lên hàng đầu"], "a": 3},
+  {"n": 223, "q": "“Anh em biết: thủ lãnh các dân thì dùng uy mà…, những người làm lớn thì lấy quyền mà cai quản dân”. (Mt 20,25)", "o": ["Thống trị dân", "Cai quản dân", "Cai trị dân", "Đe dọa dân"], "a": 0},
+  {"n": 224, "q": "“Giữa anh em thì không được như vậy: Ai muốn làm lớn giữa anh em, thì phải… anh em”. (Mt 20,26)", "o": ["Phục vụ", "Hầu hạ", "Làm người phục vụ", "Trở nên người hầu hạ"], "a": 2},
+  {"n": 225, "q": "“Và ai muốn làm đầu anh em thì phải… anh em”. (Mt 20,27)", "o": ["Trở nên người phục vụ", "Làm đầy tớ", "Phục vụ", "Hầu hạ"], "a": 1},
+  {"n": 226, "q": "“Cũng như Con Người đến không phải để được người ta phục vụ, nhưng là để phục vụ và… làm giá chuộc muôn người.” (Mt 20,28)", "o": ["Hy sinh", "Hiến dâng thân mình", "Hy sinh thân mình", "Hiến dâng mạng sống"], "a": 3},
+  {"n": 227, "q": "“Lạy Ngài, lạy Con vua Đa-vít,… chúng tôi !” (Mt 20,31)", "o": ["Xin thương xót", "Xin rủ lòng thương", "Hãy rủ lòng thương", "Xin thương"], "a": 1},
+  {"n": 228, "q": "“Họ thưa: “Lạy Ngài, xin cho mắt chúng tôi…!” (x. Mt 20,33)", "o": ["Được thấy", "Thấy được", "Được mở ra", "Được nhìn thấy"], "a": 2},
+  {"n": 229, "q": "“Hãy bảo thiếu nữ Xi-on: Kìa… đang đến với ngươi hiền hậu ngồi trên lưng lừa, lưng lừa con, là con của một con vật chở đồ”. (Mt 21,5)", "o": ["Đức Vua của ngươi", "Đức vua dân Do-thái", "Vua dân Do-thái", "Vua của ngươi"], "a": 0},
+  {"n": 230, "q": "“Dân chúng, người đi trước, kẻ theo sau, reo hò vang dậy: Hoan hô Con vua Đa-vít! Chúc tụng…! Hoan hô trên các tầng trời”. (Mt 21,9)", "o": ["Vua Ít-ra-en", "Đấng nhân danh Chúa mà đến", "Đấng ngự đến nhân danh Đức Chúa", "Đức vua của Ít-ra-en"], "a": 2},
+  {"n": 231, "q": "“Dân chúng trả lời: “…, người Na-da-rét, xứ Ga-li-lê đấy.” (Mt 21,11)", "o": ["Ngôn sứ Giê-su", "Ông Giê-su", "Chính ông Giê-su", "Đức Giê-su"], "a": 0},
+  {"n": 232, "q": "“Đã có lời chép rằng:… sẽ được gọi là nhà cầu nguyện, thế mà các ngươi lại biến thành sào huyệt của bọn cướp.” (Mt 21,13)", "o": ["Nhà Ta", "Nhà Cha Ta", "Nhà của Ta", "Nhà của Cha Ta"], "a": 0},
+  {"n": 233, "q": "“Ngài sẽ cho miệng con thơ trẻ nhỏ…” (Mt 21,16)", "o": ["Cất tiếng ngợi khen Ngài", "Vang tiếng ngợi khen Ngài", "Ca hát ngợi khen Ngài", "Cất tiếng ngợi khen"], "a": 3},
+  {"n": 234, "q": "“Thầy bảo thật anh em, nếu anh em tin và…, thì chẳng những anh em làm được điều Thầy vừa làm cho cây vả, mà hơn nữa” (Mt 21,21)", "o": ["Chẳng chút nghi nan", "Xác tín như vậy", "Không chút nghi nan", "Không chút nghi ngờ"], "a": 2},
+  {"n": 235, "q": "“Tất cả những gì anh em… khi cầu nguyện, thì anh em sẽ được.” (Mt 21,22)", "o": ["Tha thiết vài nài", "Lấy lòng tin mà xin", "Làm vì lòng tin", "Tha thiết nài xin"], "a": 1},
+  {"n": 236, "q": "“Kinh Thánh có câu: Tảng đá thợ xây nhà loại bỏ lại trở nên... Đó chính là công trình của Chúa, công trình kỳ diệu trước mắt chúng ta”. (Mt 21,42)", "o": ["Viên đá góc tường", "Tảng đá góc tường", "Đá tảng góc tường", "Viên đá góc"], "a": 2},
+  {"n": 237, "q": "“Bởi đó, tôi nói cho các ông hay: Nước Thiên Chúa, Thiên Chúa sẽ lấy đi không cho các ông nữa, mà ban cho một dân biết làm cho Nước ấy…”. (Mt 21,43)", "o": ["Sinh hoa kết trái", "Ngày càng thịnh vượng", "Sinh nhiều hoa trái", "Sinh hoa lợi"], "a": 3},
+  {"n": 238, "q": "“Ai ngã xuống đá này, kẻ ấy sẽ tan xương; đá này…, sẽ làm người ấy nát thịt.” (Mt 21,44)", "o": ["Rơi trúng ai", "Rơi xuống ai", "Rơi vào ai", "Rơi phải người nào"], "a": 0},
+  {"n": 239, "q": "“Quả thế, trong ngày sống lại, người ta chẳng lấy vợ lấy chồng, nhưng sẽ giống như… trên trời”. (Mt 22,30)", "o": ["Các phẩm thiên thần", "Các thiên thần", "Thiên thần", "Các thần thánh"], "a": 1},
+  {"n": 240, "q": "“Người phán: Ta là Thiên Chúa của Áp-ra-ham, Thiên Chúa của I-xa-ác và Thiên Chúa của Gia-cóp. Người không phải là Thiên Chúa của kẻ chết, nhưng là...” (Mt 22,32)", "o": ["Đấng Hằng Sống", "Thiên Chúa của kẻ sống", "Của kẻ sống", "Chủ của sự sống"], "a": 2}
+  ]
+});

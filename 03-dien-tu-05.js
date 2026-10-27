@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 5 (30 câu) */
+QUIZ.register({
+  id: "dt-05", group: "dt", kind: "fixed",
+  title: "Đề 5", short: "Điền từ đề 5", sub: "Câu 121–150 · 30 câu",
+  questions: [
+  {"n": 121, "q": "“Khi anh em vào bất cứ thành nào hay làng nào, thì hãy dò hỏi xem ở đó…, và hãy ở lại đó cho đến lúc ra đi. (Mt 10,11)", "o": ["Ai là người xứng đáng", "Chỗ nào tốt nhất", "Chỗ nào thuận tiện", "Nhà nào xứng đáng"], "a": 0},
+  {"n": 122, "q": "“Vào nhà nào, anh em hãy… cho nhà ấy. Nếu nhà ấy xứng đáng, thì bình an của anh em sẽ đến với họ; còn nếu nhà ấy không xứng đáng, thì bình an của anh em sẽ trở về với anh em”. (Mt 10,12-13)", "o": ["Chúc bình an", "Chào chúc bình an", "Chúc lành", "Chúc phúc lành"], "a": 1},
+  {"n": 123, "q": "“Này, Thầy sai anh em đi như chiên đi vào giữa bầy sói. Vậy anh em phải khôn như rắn và…”. (Mt 10,16)", "o": ["Hiền lành như bồ câu", "Hiền như bồ câu", "Đơn sơ như bồ câu", "Hiền lành như chiên"], "a": 2},
+  {"n": 124, "q": "“Và anh em sẽ bị điệu ra trước mặt vua chúa quan quyền vì Thầy… cho họ và các dân ngoại được biết”. (Mt 10,18)", "o": ["Để làm gương", "Để chứng tỏ", "Để làm chứng", "Để nói"], "a": 2},
+  {"n": 125, "q": "“Khi người ta nộp anh em, thì anh em đừng lo phải nói làm sao hay phải nói gì, vì trong giờ đó,… sẽ cho anh em biết phải nói gì”.", "o": ["Thiên Chúa", "Thần Khí", "Thánh Thần", "Chính Thầy"], "a": 0},
+  {"n": 126, "q": "“… anh em sẽ bị mọi người thù ghét. Nhưng kẻ nào bền chí đến cùng, kẻ ấy sẽ được cứu thoát”. (Mt 10,22)", "o": ["Vì Thầy", "Vì Tin Mừng", "Vì Ta", "Vì danh Thầy"], "a": 3},
+  {"n": 127, "q": "“Khi người ta bách hại anh em trong thành này, thì hãy... Thầy bảo thật anh em: anh em chưa đi hết các thành của Ít-ra-en, thì Con Người đã đến”. (Mt 10,23)", "o": ["Đừng chống cự", "Trốn sang thành khác", "Đi sang thành khác", "Chạy sang thành khác"], "a": 1},
+  {"n": 128, "q": "“Trò không hơn thầy, tớ không hơn chủ. Trò được như thầy, tớ được như chủ, đã là khá lắm rồi. Chủ nhà mà người ta còn gọi là…, huống chi là người nhà”. (Mt 10,24- 25)", "o": ["Ma quỷ", "Tướng quỷ", "Đồ mất trí", "Bê-en-dê-bun"], "a": 3},
+  {"n": 129, "q": "“Vậy anh em đừng sợ người ta. Thật ra,… mà sẽ không được tỏ lộ, không có gì bí mật, mà người ta sẽ không biết”. (Mt 10,26)", "o": ["Không có gì kín đáo", "Không có gì che giấu", "Chẳng có gì kín nhiệm", "Chẳng có gì kín đáo"], "a": 1},
+  {"n": 130, "q": "“Điều Thầy nói với anh em lúc đêm hôm, thì hãy nói ra giữa ban ngày; và điều anh em nghe rỉ tai, thì hãy…”. (Mt 10,27)", "o": ["Loan báo trên mái nhà", "Nói giữa chỗ đông người", "Nói trên mái nhà", "Lên mái nhà rao giảng"], "a": 3},
+  {"n": 131, "q": "“Anh em… những kẻ giết thân xác mà không giết được linh hồn. Đúng hơn, anh em hãy sợ Đấng có thể tiêu diệt cả hồn lẫn xác trong hoả ngục”. (Mt 10,28)", "o": ["Chớ có sợ", "Đừng nể sợ", "Đừng sợ", "Đừng khiếp sợ"], "a": 2},
+  {"n": 132, "q": "“Hai con chim sẻ chỉ bán được một hào phải không? Thế mà, không một con nào rơi xuống đất…”. (Mt 10,29)", "o": ["Ngoài ý của Cha anh em", "Ngoài ý Thiên Chúa", "Ngoài ý của Thầy", "Ngoài ý định của Chúa"], "a": 0},
+  {"n": 133, "q": "“Vậy anh em đừng sợ, anh em còn… muôn vàn chim sẻ”.", "o": ["Quý giá hơn", "Có giá hơn", "Giá trị hơn", "Quý trọng hơn"], "a": 0},
+  {"n": 134, "q": "“Phàm ai tuyên bố… trước mặt thiên hạ, thì Thầy cũng sẽ tuyên bố nhận người ấy trước mặt Cha Thầy, Đấng ngự trên trời”. (Mt 10,32)", "o": ["Tin vào Thầy", "Nhận Thầy", "Làm môn đệ Thầy", "Tin nhận Thầy"], "a": 1},
+  {"n": 135, "q": "“Ai không… mà theo Thầy, thì không xứng với Thầy”. (Mt 10,38)", "o": ["Từ bỏ mọi sự", "Vác thập giá mình", "Từ bỏ chính mình", "Từ chối mọi sự"], "a": 1},
+  {"n": 136, "q": "“Ai giữ lấy mạng sống mình, thì sẽ mất; còn ai liều mất mạng sống mình vì Thầy, thì sẽ…”. (Mt 10,39)", "o": ["Tìm thấy được", "Tìm lại được", "Giữ được mạng sống ấy", "Có được mạng sống ấy"], "a": 0},
+  {"n": 137, "q": "“Ai đón tiếp anh em là đón tiếp Thầy, và ai đón tiếp Thầy là đón tiếp…”. (Mt 10,40)", "o": ["Chính Cha của Thầy", "Đấng đã sai Thầy", "Cha của Thầy", "Chính Đấng sai Thầy"], "a": 1},
+  {"n": 138, "q": "“Và ai cho một trong những kẻ bé nhỏ này uống, dù chỉ một chén nước lã thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thật anh em, người đó sẽ…” (Mt 10,42)", "o": ["Được trọng thưởng", "Được phần thưởng lớn lao", "Được Thầy đón tiếp", "Không mất phần thưởng đâu"], "a": 3},
+  {"n": 139, "q": "“Các anh cứ về thuật lại cho ông Gio-an những điều mắt thấy tai nghe: Người mù xem thấy, kẻ què được đi, người phong được sạch, kẻ điếc được nghe, người chết sống lại, kẻ nghèo…” (Mt 11,4-5)", "o": ["Được ăn uống no nê", "An ủi vỗ về", "Được nghe Tin Mừng", "Thỏa thuê cơm bánh"], "a": 2},
+  {"n": 140, "q": "“Chính ông là người Kinh Thánh đã nói tới khi chép rằng: Này Ta sai sứ giả của Ta đi trước mặt Con, người sẽ…”. (Mt 11,10)", "o": ["Chỉ đường cho Con", "Dọn đường cho Con đến", "Sửa đường cho Con", "Chỉ đường cho Con đến"], "a": 1},
+  {"n": 141, "q": "“Tôi nói thật với anh em: trong số phàm nhân đã lọt lòng mẹ, chưa từng có ai cao trọng hơn... Tuy nhiên, kẻ nhỏ nhất trong Nước Trời còn cao trọng hơn ông”. (Mt 11,11)", "o": ["Ông Si-môn Phê-rô", "Ông Giô-na", "Ông Gio-an Tẩy Giả", "Tổ phụ Áp-ra-ham"], "a": 2},
+  {"n": 142, "q": "“Lạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha, vì Cha đã giấu không cho bậc khôn ngoan thông thái biết những điều này, nhưng lại mặc khải cho…”. (Mt 11,25)", "o": ["Những kẻ bé mọn", "Những kẻ khó nghèo", "Những người bé mọn", "Những kẻ nghèo hèn"], "a": 2},
+  {"n": 143, "q": "“Cha tôi đã giao phó mọi sự cho tôi. Và không ai biết rõ người Con, trừ Chúa Cha ; cũng như không ai biết rõ Chúa Cha, trừ người Con và kẻ mà… muốn mặc khải cho”. (Mt 11,27)", "o": ["Người Con", "Chúa Cha", "Cha tôi", "Con Người"], "a": 0},
+  {"n": 144, "q": "“Tất cả những ai đang vất vả mang gánh nặng nề, hãy đến cùng tôi, tôi sẽ…”. (Mt 11,28)", "o": ["Ủi an vỗ về", "Cho nghỉ ngơi bồi dưỡng", "An ủi người ấy", "Ủi an kẻ ấy"], "a": 1},
+  {"n": 145, "q": "“Anh em hãy mang lấy ách của tôi, và hãy học với tôi, vì tôi có lòng... Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng. (Mt 11,29)", "o": ["Hiền hậu", "Nhân từ", "Khiêm nhường", "Cả A và C"], "a": 3},
+  {"n": 146, "q": "“Vì… tôi êm ái, và… tôi nhẹ nhàng.” (Mt 11,30)", "o": ["Gánh / ách", "Ách / gánh", "Ách / tiếng", "Gánh / tiếng"], "a": 1},
+  {"n": 147, "q": "“Đây là Người Tôi Tớ Ta đã tuyển chọn, đây là người Ta yêu dấu: … Ta cho Thần Khí Ta ngự trên Người. Người sẽ loan báo công lý trước muôn dân”. (Mt 12,18)", "o": ["Ta hài lòng về Người", "Đẹp lòng Ta mọi đàng", "Hãy vâng nghe lời Người", "Tất cả đều đúng"], "a": 0},
+  {"n": 148, "q": "“Người sẽ…, không kêu to, chẳng ai nghe thấy Người lên tiếng giữa phố phường”. (Mt 12,19)", "o": ["Không cãi vã", "Không lớn tiếng", "Không nặng lời", "Chẳng kết án"], "a": 0},
+  {"n": 149, "q": "“Cây lau bị giập, Người…, tim đèn leo lét, chẳng nỡ tắt đi, cho đến khi Người đưa công lý đến toàn thắng, và muôn dân đặt niềm hy vọng nơi danh Người”. (Mt 12,20- 21)", "o": ["Không bẻ gãy", "Không đành đụng tới", "Không đành bẻ gãy", "Chẳng cần bẻ gãy"], "a": 2},
+  {"n": 150, "q": "“Còn nếu tôi dựa vào Thần Khí của Thiên Chúa mà trừ quỷ, thì quả là … đã đến giữa các ông”. (Mt 12,28)", "o": ["Nước Thiên Chúa", "Con Người", "Nước Trời", "Triều đại Thiên Chúa"], "a": 3}
+  ]
+});

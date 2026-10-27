@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 7 (30 câu) */
+QUIZ.register({
+  id: "dt-07", group: "dt", kind: "fixed",
+  title: "Đề 7", short: "Điền từ đề 7", sub: "Câu 181–210 · 30 câu",
+  questions: [
+  {"n": 181, "q": "“Khi thầy trò đã lên thuyền, thì gió lặng ngay. Những kẻ ở trong thuyền bái lạy Người và nói: “Quả thật Ngài là …!” (Mt 14,32-33)", "o": ["Con Thiên Chúa", "Đấng Thánh", "Con Đấng Tối Cao", "Thiên Chúa"], "a": 0},
+  {"n": 182, "q": "“Họ nài xin Người cho họ chỉ … thôi, và ai đã sờ vào thì đều được khỏi”. (Mt 14,36)", "o": ["Chạm vào Người", "Sờ vào Người", "Đến gần sờ vào Người", "Sờ vào tua áo của Người"], "a": 3},
+  {"n": 183, "q": "“Quả thế, Thiên Chúa dạy: Ngươi hãy thờ cha kính mẹ; kẻ nào nguyền rủa cha mẹ, thì…”. (Mt 15,4)", "o": ["Sẽ phải chết", "Sẽ bị án phạt đời đời", "Phải bị xử tử", "Thiên Chúa giáng phạt"], "a": 2},
+  {"n": 184, "q": "“Dân này tôn kính Ta bằng môi bằng miệng, còn… thì lại xa Ta”. (Mt 15,8)", "o": ["Lòng dạ", "Lòng chúng", "Lòng dạ của chúng", "Tâm hồn chúng"], "a": 1},
+  {"n": 185, "q": "“Chúng có thờ phượng Ta thì cũng vô ích, vì giáo lý chúng giảng dạy chỉ là...” (Mt 15,9)", "o": ["Giới luật phàm nhân", "Giáo huấn của người phàm", "Giáo huấn của phàm nhân", "Lời lẽ phàm nhân"], "a": 0},
+  {"n": 186, "q": "“Không phải cái vào miệng làm cho con người ra ô uế, nhưng…, cái đó mới làm cho con người ra ô uế.” (Mt 15,11)", "o": ["Cái từ lòng xuất ra", "Thứ từ lòng người xuất ra", "Cái từ miệng xuất ra", "Cái từ trong lòng"], "a": 2},
+  {"n": 187, "q": "“Đức Giê-su gọi các môn đệ lại mà nói: “Thầy … đám đông, vì họ ở luôn với Thầy đã ba ngày rồi và họ không có gì ăn”. (Mt 15,32)", "o": ["Thương", "Cảm thấy thương", "Lo cho", "Chạnh lòng thương"], "a": 3},
+  {"n": 188, "q": "“Đức Giê-su lại hỏi: “Còn anh em, anh em bảo Thầy là ai?” Ông Si-môn Phê-rô thưa: “Thầy là Đấng Ki-tô,...” (Mt 16,15-16)", "o": ["Con Thiên Chúa", "Con Thiên Chúa hằng sống", "Của Thiên Chúa", "Con Thiên Chúa tối cao"], "a": 1},
+  {"n": 189, "q": "“Này anh Si-môn con ông Giô-na, anh thật là người có phúc, vì không phải phàm nhân mặc khải cho anh điều ấy, nhưng là…, Đấng ngự trên trời”. (Mt 16,17)", "o": ["Cha của Thầy", "Cha Thầy", "Thiên Chúa Cha", "Thiên Chúa"], "a": 0},
+  {"n": 190, "q": "“Còn Thầy, Thầy bảo cho anh biết: anh là Phê-rô, nghĩa là Tảng Đá, trên tảng đá này, Thầy sẽ xây Hội Thánh của Thầy, và… sẽ không thắng nổi”. (Mt 16,18)", "o": ["Cửa hỏa ngục", "Quyền lực Âm Phủ", "Quyền lực tử thần", "Sức mạnh của tử thần"], "a": 2},
+  {"n": 191, "q": "“Thầy sẽ trao cho anh…: dưới đất, anh cầm buộc điều gì, trên trời cũng sẽ cầm buộc như vậy; dưới đất, anh tháo cởi điều gì, trên trời cũng sẽ tháo cởi như vậy.” (Mt 16,19)", "o": ["Chìa khoá Nước Trời", "Quyền trên các thần ô uế", "Mọi quyền năng", "Chìa khóa cửa trời"], "a": 0},
+  {"n": 192, "q": "“Từ lúc đó, Đức Giê-su Ki-tô bắt đầu tỏ cho các môn đệ biết: Người phải đi Giê-ru-sa-lem, phải chịu nhiều đau khổ do các kỳ mục, các thượng tế và kinh sư gây ra, rồi bị giết chết, và…”. (Mt 16,21)", "o": ["Ba ngày sau sẽ sống lại", "Đủ ba ngày sẽ sống lại", "Ngày thứ ba sẽ sống lại", "Khỏi ba ngày, sẽ sống lại"], "a": 2},
+  {"n": 193, "q": "“Xa-tan, lui lại đằng sau Thầy! …, vì tư tưởng của anh không phải là tư tưởng của Thiên Chúa, mà là của loài người.” (Mt 16,23)", "o": ["Anh cản lối Thầy", "Đừng cản Thầy", "Đừng phản đối Thầy", "Sao lại cản lối Thầy"], "a": 0},
+  {"n": 194, "q": "“Rồi Đức Giê-su nói với các môn đệ: “Ai muốn theo Thầy, …, vác thập giá mình mà theo”. (Mt 16,24)", "o": ["Hãy bỏ mình", "Hãy từ bỏ mình", "Phải từ bỏ mình", "Phải từ bỏ chính mình"], "a": 3},
+  {"n": 195, "q": "“Quả vậy, ai muốn cứu mạng sống mình, thì sẽ mất; … mạng sống mình vì Thầy, thì sẽ tìm được mạng sống ấy”. (Mt 16,25)", "o": ["Ai đành mất", "Còn ai liều mất", "Ai chấp nhận mất", "Còn ai chịu mất"], "a": 1},
+  {"n": 196, "q": "“Vì nếu người ta được cả thế giới mà phải thiệt mất mạng sống, thì…? Hoặc người ta sẽ lấy gì mà đổi mạng sống mình?” (Mt 16,26)", "o": ["Nào được ích gì", "Được ích gì", "Đâu có được ích gì", "Nào có lợi gì"], "a": 3},
+  {"n": 197, "q": "“Vì Con Người sẽ ngự đến trong vinh quang của Cha Người, cùng với các thiên thần của Người, và bấy giờ, Người sẽ thưởng phạt ai nấy…”. (Mt 16,27)", "o": ["Xứng việc họ làm", "Tùy theo việc họ làm", "Tùy việc họ làm", "Xứng với việc họ làm"], "a": 0},
+  {"n": 198, "q": "“Đây là Con yêu dấu của Ta, Ta hài lòng về Người. Các ngươi hãy…!” (Mt 17,5)", "o": ["Nghe lời Người", "Vâng lời Người", "Vâng nghe lời Người", "Tuân lệnh Người"], "a": 2},
+  {"n": 199, "q": "“Con Người sắp bị nộp vào tay người đời, họ sẽ giết chết Người, và ngày thứ ba...” (Mt 17,22-23)", "o": ["Sẽ sống lại", "Người sẽ trỗi dậy", "Sẽ trỗi dậy", "Người sẽ sống lại"], "a": 1},
+  {"n": 200, "q": "“Thầy bảo thật anh em: nếu anh em không trở lại mà…, thì sẽ chẳng được vào Nước Trời”. (Mt 18,3)", "o": ["Thay đổi đời sống", "Ăn năn thống hối", "Nên như trẻ nhỏ", "Ăn chay khóc lóc"], "a": 2},
+  {"n": 201, "q": "“Vậy ai tự hạ, coi mình như em nhỏ này, người ấy sẽ là…”. (Mt 18,4)", "o": ["Người lớn nhất Nước Trời", "Người cao trọng trong Nước Trời", "Người lớn trong Nước Trời", "Người lớn nhất"], "a": 0},
+  {"n": 202, "q": "“Nhưng ai làm cớ cho một trong những kẻ bé mọn đang tin Thầy đây phải sa ngã, thì thà treo cối đá lớn vào cổ nó mà… còn hơn”. (Mt 18,6)", "o": ["Ném xuống biển", "Xô xuống đáy biển", "Đẩy xuống biển", "Xô cho chìm xuống đáy biển"], "a": 3},
+  {"n": 203, "q": "“Nếu tay hoặc chân anh làm cớ cho anh sa ngã, thì hãy chặt mà ném đi; thà cụt tay cụt chân mà…, còn hơn là có đủ hai tay hai chân mà bị ném vào lửa đời đời”. (Mt 18,8)", "o": ["Được vào Nước Trời", "Được vào thiên đàng", "Được vào cõi sống", "Được vào Nước Thiên Chúa"], "a": 2},
+  {"n": 204, "q": "“Nếu mắt anh làm cớ cho anh sa ngã, thì hãy móc mà ném đi; thà chột mắt mà …, còn hơn là có đủ hai mắt mà bị ném vào lửa hoả ngục”. (Mt 18,9)", "o": ["Được vào Nước Trời", "Được vào thiên đàng", "Được vào cõi sống", "Được vào Nước Thiên Chúa"], "a": 2},
+  {"n": 205, "q": "“Anh em hãy coi chừng, …trong những kẻ bé mọn này; quả thật, Thầy nói cho anh em biết: các thiên thần của họ ở trên trời không ngừng chiêm ngưỡng nhan Cha Thầy, Đấng ngự trên trời”. (Mt 18,10)", "o": ["Chớ khinh một ai", "Đừng ức hiếp một ai", "Chớ bát nạt một ai", "Đừng coi thường một ai"], "a": 0},
+  {"n": 206, "q": "“Cũng vậy, Cha của anh em, Đấng ngự trên trời, không muốn cho một ai trong những kẻ bé mọn này…”. (Mt 18,14)", "o": ["Phải tiêu vong", "Bị diệt vong", "Phải hư mất", "Phải bị diệt vong"], "a": 2},
+  {"n": 207, "q": "“Thầy bảo thật anh em: Dưới đất, anh em cầm buộc những điều gì, trên trời cũng…; dưới đất, anh em tháo cởi những điều gì, trên trời cũng tháo cởi như vậy”. (Mt 18,18)", "o": ["Cầm buộc", "Cầm buộc thể ấy", "Cầm buộc như thế", "Cầm buộc như vậy"], "a": 3},
+  {"n": 208, "q": "“Thầy còn bảo thật anh em: Nếu ở dưới đất, hai người trong anh em… bất cứ điều gì, thì Cha Thầy, Đấng ngự trên trời, sẽ ban cho”. (Mt 18,19)", "o": ["Cùng xin", "Hợp lời cầu xin", "Cầu xin", "Cùng cầu xin"], "a": 1},
+  {"n": 209, "q": "“Vì ở đâu có hai ba người họp lại…, thì có Thầy ở đấy, giữa họ.” (Mt 18,20)", "o": ["Nhân danh Cha Thầy", "Nhân danh Cha của Thầy", "Nhân danh Thầy", "Nhân danh Chúa Cha"], "a": 2},
+  {"n": 210, "q": "‘Tên đầy tớ độc ác kia, ta đã tha hết số nợ ấy cho ngươi, vì ngươi đã van xin ta, thì đến lượt ngươi, ngươi không phải thương xót đồng bạn, như… ngươi sao?’ (Mt 18,32- 33)", "o": ["Ta đã thương xót", "Chính ta đã thương xót", "Chúng ta đã thương xót", "Đồng bạn đã thương xót"], "a": 1}
+  ]
+});

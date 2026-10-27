@@ -1,0 +1,37 @@
+/* Trắc nghiệm khách quan – đề 4 (30 câu) */
+QUIZ.register({
+  id: "tn-04", group: "tn", kind: "fixed",
+  title: "Đề 4", short: "TN đề 4", sub: "Câu 91–120 · 30 câu",
+  questions: [
+  {"n": 91, "q": "Kẻ nghe Lời, nhưng nỗi lo lắng sự đời, và bả vinh hoa phú quý bóp nghẹt, khiến Lời không sinh hoa kết quả gì”. Đó là kẻ được gieo vào đâu? (x. Mt 13,22)", "o": ["Bụi gai", "Vệ đường", "Sỏi đá", "Đất tốt"], "a": 0},
+  {"n": 92, "q": "Kẻ nghe Lời và hiểu, thì tất nhiên sinh hoa kết quả và làm ra, kẻ được gấp trăm, kẻ được sáu chục, kẻ được ba chục.” Đó là kẻ được gieo vào đâu? (x. Mt 13,23)", "o": ["Vệ đường", "Sỏi đá", "Đất tốt", "Bụi gai"], "a": 2},
+  {"n": 93, "q": "“Tuy nó là loại nhỏ nhất trong tất cả các hạt giống, nhưng khi lớn lên, thì lại là thứ lớn nhất; nó trở thành cây, đến nỗi chim trời tới làm tổ trên cành được.” Đức Giê-su nói về loại hạt nào? (x. Mt 13,31-32)", "o": ["Hạt ớt", "Hạt cải", "Hạt vừng", "Hạt tiêu"], "a": 1},
+  {"n": 94, "q": "“Xin Thầy giải nghĩa dụ ngôn cỏ lùng trong ruộng cho chúng con nghe.” Ai đã nói câu này? (x. Mt 13,36)", "o": ["Đám đông dân chúng", "Người Pha-ri-sêu", "Các môn đệ", "Các kinh sư"], "a": 2},
+  {"n": 95, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su nói kẻ gieo giống tốt là ai? (x. Mt 13,37)", "o": ["Con Người", "Các Thiên Thần", "Ông chủ ruộng", "Thiên Chúa Cha"], "a": 0},
+  {"n": 96, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví ruộng với ai? (x. Mt 13,38)", "o": ["Các môn đệ", "Nước Trời", "Thế gian", "Thế giới của Ác Thần"], "a": 2},
+  {"n": 97, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví hạt giống tốt với ai? (x. Mt 13,38)", "o": ["Con cái thế gian", "Con cái Nước Trời", "Con cái Ác Thần", "Con cái sự sáng"], "a": 1},
+  {"n": 98, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví cỏ lùng với ai? (x. Mt 13,38)", "o": ["Con cái thế gian", "Con cái Nước Trời", "Con cái Ác Thần", "Con cái sự sáng"], "a": 2},
+  {"n": 99, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví kẻ thù đã gieo cỏ lùng với ai? (x. Mt 13,39)", "o": ["Những kẻ không nghe lời", "Các Thần dữ", "Ác Thần", "Ma quỷ"], "a": 3},
+  {"n": 100, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví mùa gặt với cái gì? (x. Mt 13,39)", "o": ["Ngày Chúa đến", "Ngày Chúa quang lâm", "Ngày tận thế", "Ngày cánh chung"], "a": 2},
+  {"n": 101, "q": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví thợ gặt với ai? (x. Mt 13,39)", "o": ["Chúa Thánh Thần", "Các thiên thần", "Các môn đệ", "Các Tông đồ"], "a": 1},
+  {"n": 102, "q": "“Ngôn sứ có bị rẻ rúng, thì cũng chỉ là ở chính quê hương mình và trong gia đình mình mà thôi.” Ai đã nói câu này? (x. Mt 13,57)", "o": ["I-sai-a", "Mấy người Pha-ri-sêu", "Đức Giê-su", "Các kinh sư"], "a": 2},
+  {"n": 103, "q": "Khi về thăm Na-da-rét, tại sao Đức Giê-su lại không làm nhiều phép lạ tại đó?", "o": ["Vì họ nhất tề bịt tai lại", "Vì họ không tin", "Vì họ phản đối", "Vì họ đồng loạt bỏ đi"], "a": 1},
+  {"n": 104, "q": "“Đó chính là ông Gio-an Tẩy Giả; ông đã từ cõi chết trỗi dậy, nên mới có quyền năng làm phép lạ.” Ai đã nói câu này? (x. Mt 14,1-2)", "o": ["Đức Giê-su", "Tiểu vương Hê-rô-đê", "Phi-la-tô", "Thượng tế Cai-pha"], "a": 1},
+  {"n": 105, "q": "“Nơi đây hoang vắng, và đã muộn rồi, vậy xin Thầy cho dân chúng về, để họ vào các làng mạc mua lấy thức ăn.” Ai đã nói câu này? (x. Mt 14,15)", "o": ["Phi-líp-phê", "Phê-rô và Gio-an", "Các môn đệ", "Cả A và B"], "a": 2},
+  {"n": 106, "q": "“Họ không cần phải đi đâu cả, chính anh em hãy cho họ ăn.” Ai đã nói câu này? (x. Mt 14,16)", "o": ["Các môn đệ", "Đức Giê-su", "Si-môn Phê-rô", "Phi-líp-phê"], "a": 1},
+  {"n": 107, "q": "Trong phép lạ Đức Giê-su hóa bánh ra nhiều lần thứ nhất, những mẩu bánh còn thừa, người ta thu lại được bao nhiêu giỏ đầy? (x. Mt 14,20)", "o": ["7 giỏ", "5 giỏ", "12 giỏ", "4 giỏ"], "a": 2},
+  {"n": 108, "q": "“Thưa Ngài, nếu quả là Ngài, thì xin truyền cho con đi trên mặt nước mà đến với Ngài.” Ai đã nói câu này? (x. Mt 14,28)", "o": ["Ông Tô-ma", "Ông Phê-rô", "Ông Gia-cô-bê", "Người môn đệ Chúa yêu"], "a": 1},
+  {"n": 109, "q": "“Người đâu mà kém tin vậy! Sao lại hoài nghi?” Đức Giê-su nói lời này với ai? (x. Mt 14,28-31)", "o": ["Ông Tô-ma", "Ông Gia-cô-bê", "Ông Gio-an", "Ông Phê-rô"], "a": 3},
+  {"n": 110, "q": "“Dân này tôn kính Ta bằng môi bằng miệng, còn lòng chúng thì lại xa Ta. Chúng có thờ phượng Ta thì cũng vô ích, vì giáo lý chúng giảng dạy chỉ là giới luật phàm nhân.” Ngôn sứ nào đã nói câu này? (x. Mt 15,7-9)", "o": ["Giê-rê-mi-a", "I-sai-a", "Da-ca-ri-a", "Mi-kha"], "a": 1},
+  {"n": 111, "q": "“Lạy Ngài là Con vua Đa-vít, xin rủ lòng thương tôi!” Ai đã nói câu này? (x. Mt 15,21-22)", "o": ["Người đàn bà Ca-na-an", "Anh mù Ba-ti-mê", "Người bị bại tay", "Người đàn bà bị băng huyết"], "a": 0},
+  {"n": 112, "q": "“Các môn đệ lại gần xin với Người rằng: “Xin Thầy bảo bà ấy về đi, vì bà ấy cứ theo sau chúng ta mà kêu mãi!” Các môn đệ nói về ai? (x. Mt 15,21-23)", "o": ["Người đàn bà bị băng huyết", "Người đàn bà góa", "Người đàn bà Ca-na-an", "Người đàn bà bị còng lưng"], "a": 2},
+  {"n": 113, "q": "“Lạy Ngài, xin cứu giúp tôi !” Ai đã nói câu này? (x. Mt 15,21-25)", "o": ["Người đàn bà bị băng huyết", "Anh mù Ba-ti-mê", "Người bị bại tay", "Người đàn bà Ca-na-an"], "a": 3},
+  {"n": 114, "q": "“Này bà, lòng tin của bà mạnh thật. Bà muốn sao thì sẽ được vậy.” Đức Giê-su nói lời này với ai? (x. Mt 15,21-28)", "o": ["Người đàn bà bị băng huyết", "Người đàn bà góa", "Người đàn bà Ca-na-an", "Người đàn bà bị còng lưng"], "a": 2},
+  {"n": 115, "q": "Sau khi hóa bánh ra nhiều lần thứ hai, Đức Giê-su đã lên thuyền đi đến miền nào? (x. Mt 15,39)", "o": ["Xê-xa-rê Phi-líp-phê", "Ma-ga-đan", "Miền Thập tỉnh", "Ca-phác-na-um"], "a": 1},
+  {"n": 116, "q": "Cảnh sắc bầu trời thì các ông biết cắt nghĩa, còn thời điềm thì các ông lại không cắt nghĩa nổi”. Đức Giê-su đã nói lời này với ai? (x. Mt 16,1-3)", "o": ["Những người Pha-ri-sêu", "Nhóm Xa-đốc", "Mấy kinh sư", "Cả A và B"], "a": 3},
+  {"n": 117, "q": "“Thầy là Đấng Ki-tô, Con Thiên Chúa hằng sống.” Ông Phê-rô tuyên xưng những lời này ở đâu? (x. Mt 16,13-16)", "o": ["Xê-da-rê Phi-líp-phê", "Ca-phác-na-um", "Bết-sai-đa", "Vùng bên kia sông Gio-đan"], "a": 0},
+  {"n": 118, "q": "“Còn Thầy, Thầy bảo cho anh biết: anh là Phê-rô, nghĩa là Tảng Đá, trên tảng đá này, Thầy sẽ xây Hội Thánh của Thầy, và quyền lực tử thần sẽ không thắng nổi”. Đức Giê-su đã nói những lời này với Phê-rô ở đâu? (x. Mt 16,13-18)", "o": ["Vùng bên kia sông Gio-đan", "Ca-phác-na-um", "Bết-sai-đa", "Xê-da-rê Phi-líp-phê"], "a": 3},
+  {"n": 119, "q": "“Xa-tan, lui lại đằng sau Thầy! Anh cản lối Thầy, vì tư tưởng của anh không phải là tư tưởng của Thiên Chúa, mà là của loài người.” Đức Giê-su nói lời này với ai? (x. Mt 16,23)", "o": ["Tô-ma", "Giu-đa Ít-ca-ri-ốt", "Phê-rô", "Phi-líp-phê"], "a": 2},
+  {"n": 120, "q": "Trong sự kiện hiển dung, Đức Giê-su đã mang những ai đi theo mình? (x. Mt 17,1)", "o": ["Phê-rô, Gia-cô-bê và An-rê", "Phê-rô, Gia-cô-bê và Gio-an", "Phê-rô, Gio-an và An-rê", "Phê-rô, An-rê và Ta-đê-ô"], "a": 1}
+  ]
+});

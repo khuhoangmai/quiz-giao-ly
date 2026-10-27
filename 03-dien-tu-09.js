@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 9 (30 câu) */
+QUIZ.register({
+  id: "dt-09", group: "dt", kind: "fixed",
+  title: "Đề 9", short: "Điền từ đề 9", sub: "Câu 241–270 · 30 câu",
+  questions: [
+  {"n": 241, "q": "“Đức Giê-su đáp: “Ngươi phải yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn và hết trí khôn ngươi. Đó là điều răn quan trọng nhất và…”. (Mt 22,37- 38)", "o": ["Là điều răn đứng đầu", "Là điều răn hàng đầu", "Ý nghĩa nhất", "Điều răn thứ nhất"], "a": 3},
+  {"n": 242, "q": "“Còn điều răn thứ hai, cũng giống điều răn ấy, là: ngươi phải… như chính mình”. (Mt 22,39)", "o": ["Yêu tha nhân", "Yêu người thân cận", "Yêu anh em", "Yêu hết mọi người"], "a": 1},
+  {"n": 243, "q": "“Đức Chúa phán cùng Chúa Thượng tôi: bên hữu Cha đây, Con lên ngự trị, để rồi bao địch thù, Cha sẽ…?” (Mt 22,44)", "o": ["Làm bệ dưới chân Con", "Đặt làm bệ dưới chân Con", "Bắt quy phục dưới chân Con", "Đặt dưới chân Con"], "a": 3},
+  {"n": 244, "q": "“Vậy, tất cả những gì họ nói, anh em hãy làm, hãy giữ, còn những việc họ làm, thì…, vì họ nói mà không làm”. (Mt 23,3)", "o": ["Chớ có làm theo", "Đừng có làm theo", "Đừng làm theo họ", "Chớ làm theo"], "a": 1},
+  {"n": 245, "q": "“Họ bó những gánh nặng mà chất lên vai người ta, nhưng chính họ thì lại không buồn…”. (Mt 23,4)", "o": ["Đếm xỉa tới", "Đụng tới", "Chạm tay vào", "Động ngón tay vào"], "a": 3},
+  {"n": 246, "q": "“Phần anh em, thì đừng để ai gọi mình là ‘ráp-bi’, nghĩa là thầy, vì anh em chỉ có một Thầy; còn tất cả anh em đều là…”. (Mt 23,8)", "o": ["Con cùng một Cha", "Con của Cha trên trời", "Anh em với nhau", "Anh em cùng một Cha"], "a": 2},
+  {"n": 247, "q": "“Anh em cũng đừng gọi ai dưới đất này là cha của anh em, vì anh em chỉ có một Cha là…”. (Mt 23,9)", "o": ["Cha trên trời", "Đấng ngự trên trời", "Chúa tể trời đất", "Thiên Chúa"], "a": 0},
+  {"n": 248, "q": "“Anh em cũng đừng để ai gọi mình là người lãnh đạo, vì anh em chỉ có một vị lãnh đạo, là…”. (Mt 23,10)", "o": ["Đấng tạo thành", "Đức Ki-tô", "Thiên Chúa Cha", "Cha của Thầy"], "a": 1},
+  {"n": 249, "q": "“Trong anh em, người làm lớn hơn cả, phải làm người…”. (Mt 23,11)", "o": ["Phục vụ anh em", "Đầy tớ của anh em", "Nhỏ nhất trong anh em", "Hầu hạ anh em"], "a": 0},
+  {"n": 250, "q": "“Ai tôn mình lên, sẽ bị hạ xuống; còn ai…, sẽ được tôn lên”. (Mt 23,12)", "o": ["Tự hạ mình xuống", "Khiêm nhường", "Hạ mình xuống", "Khiêm tốn"], "a": 2},
+  {"n": 251, "q": "“Các người nộp thuế thập phân về bạc hà, thì là, rau húng, mà bỏ những điều quan trọng nhất trong Lề Luật là công lý, lòng nhân và…”. (Mt 23,23)", "o": ["Sự thành tín", "Lòng thành tín", "Sự chân thành", "Thành tín"], "a": 3},
+  {"n": 252, "q": "“Quân dẫn đường mù quáng! Các người lọc con muỗi, nhưng lại…”. (Mt 23,24)", "o": ["Nuốt chửng con lạc đà", "Nuốt con lạc đà", "Bỏ qua con lạc đà", "Ăn thịt con lạc đà"], "a": 1},
+  {"n": 253, "q": "“Các người rửa sạch bên ngoài chén đĩa, nhưng bên trong thì đầy những chuyện cướp bóc và…”. (Mt 23,25)", "o": ["Ăn chơi vô độ", "Ăn chơi trác táng", "Lối sống vô luân", "Chè chén say sưa"], "a": 0},
+  {"n": 254, "q": "“Các người cũng vậy, bên ngoài thì có vẻ công chính trước mặt thiên hạ, nhưng bên trong toàn là… và gian ác!” (Mt 23,28)", "o": ["Thối tha", "Giả hình", "Xấu xa", "Những việc xấu xa"], "a": 1},
+  {"n": 255, "q": "“Đã bao lần Ta muốn tập hợp con cái ngươi lại, như gà mẹ tập hợp gà con dưới cánh, mà các ngươi…”. (Mt 23,37)", "o": ["Từ chối", "Bỏ ngoài tai", "Không chịu", "Chẳng đoái hoài"], "a": 2},
+  {"n": 256, "q": "“Thật vậy, Ta nói cho các ngươi hay, từ nay các ngươi sẽ không còn thấy Ta nữa, cho đến khi các ngươi nói: Chúc tụng Đấng ngự đến…!” (Mt 23,39)", "o": ["Nhân danh Chúa", "Trên cõi trời cao", "Từ trời cao thẳm", "Nhân danh Đức Chúa"], "a": 3},
+  {"n": 257, "q": "“Anh em hãy coi chừng, đừng để ai lừa gạt anh em, vì sẽ có nhiều kẻ mạo danh Thầy đến nói rằng: ‘Chính Ta đây là..., và họ sẽ lừa gạt được nhiều người”. (Mt 24,4-5)", "o": ["Đấng Cứu Thế", "Đấng giải thoát ngươi", "Đấng Ki-tô", "Thiên Chúa thật"], "a": 2},
+  {"n": 258, "q": "“Anh em sẽ nghe có giặc giã và tin đồn giặc giã; coi chừng,…, vì những việc đó phải xảy ra, nhưng chưa phải là tận cùng”. (Mt 24,6)", "o": ["Đừng khiếp sợ", "Đừng sợ hãi", "Đừng có tin", "Đừng quá lo lắng"], "a": 0},
+  {"n": 259, "q": "“Sẽ có những cơn đói kém, và những trận động đất ở nhiều nơi. Nhưng tất cả những sự việc ấy chỉ là khởi đầu…”. (Mt 24,7-8)", "o": ["Mà thôi", "Của ngày tận thế", "Các cơn đau đớn", "Của ngày chung thẩm"], "a": 2},
+  {"n": 260, "q": "“Bấy giờ, người ta sẽ nộp anh em, khiến anh em phải khốn quẫn, và người ta sẽ giết anh em; anh em sẽ bị mọi dân tộc thù ghét vì…”. (Mt 24,9)", "o": ["Sống công chính", "Sống theo lời Thầy", "Đã tin vào Thầy", "Danh Thầy"], "a": 3},
+  {"n": 261, "q": "“Bấy giờ sẽ có nhiều người vấp ngã. Người ta sẽ nộp nhau và thù ghét nhau. Sẽ có nhiều… xuất hiện và lừa gạt được nhiều người”. (Mt 24,10-11)", "o": ["Ngôn sứ", "Ngôn sứ giả", "Ki-tô giả", "Tiên tri giả"], "a": 1},
+  {"n": 262, "q": "“Vì tội ác gia tăng, nên lòng yêu mến của nhiều người sẽ nguội đi. Nhưng kẻ nào…, kẻ ấy sẽ được cứu thoát”. (Mt 24,12-13)", "o": ["Bền đỗ đến cùng", "Kiên tâm chịu đựng", "Bền chí đến cùng", "Tin vào danh Thầy"], "a": 2},
+  {"n": 263, "q": "“Tin Mừng này về Vương Quốc sẽ được loan báo trên khắp thế giới, để làm chứng cho... Và bấy giờ sẽ là tận cùng.” (Mt 24,14)", "o": ["Mọi dân tộc được biết", "Muôn dân được biết", "Mọi người được biết", "Hết thảy mọi người"], "a": 0},
+  {"n": 264, "q": "“Bấy giờ, nếu có ai bảo anh em: ‘Này, Đấng Ki-tô ở đây’ hoặc ‘ở đó’, thì anh em…”. (Mt 24,23)", "o": ["Cứ tin", "Hãy tin", "Chớ có tin", "Đừng tin"], "a": 3},
+  {"n": 265, "q": "“Thật vậy, sẽ có những Ki-tô giả và ngôn sứ giả xuất hiện, đưa ra những dấu lạ lớn lao và những điềm thiêng, đến nỗi chúng… cả những người đã được tuyển chọn, nếu có thể”. (Mt 24,24)", "o": ["Uy hiếp", "Lừa gạt", "Đe dọa", "Dụ dỗ"], "a": 1},
+  {"n": 266, "q": "“Vậy, nếu người ta bảo anh em ‘Này, Người ở trong hoang địa’, anh em chớ ra đó; ‘Kìa, Người ở trong phòng kín’, anh em cũng…”. (Mt 24,26)", "o": ["Đừng đi theo", "Chớ có vào", "Đừng tin", "Đừng đi xem"], "a": 2},
+  {"n": 267, "q": "“Vì, như chớp loé ra từ phương đông và chiếu sáng đến phương tây thế nào, thì… của Con Người cũng sẽ như vậy”. (Mt 24,27)", "o": ["Ngày quang lâm", "Giờ", "Ngày", "Cuộc quang lâm"], "a": 3},
+  {"n": 268, "q": "“Bấy giờ mọi chi tộc trên mặt đất sẽ đấm ngực và sẽ thấy Con Người rất… ngự giá mây trời mà đến”. (Mt 24,30)", "o": ["Uy nghi vinh hiển", "Oai hùng", "Uy hùng", "Oai phong vinh hiển"], "a": 0},
+  {"n": 269, "q": "“Cũng vậy, khi thấy tất cả những điều đó, anh em hãy biết là Con Người đã đến gần,…”. (Mt 24,33)", "o": ["Ngài ở ngay bên", "Ở ngay ngoài cửa rồi", "Ngài đang ở đây rồi", "Hãy tin như vậy"], "a": 1},
+  {"n": 270, "q": "“Trời đất sẽ qua đi, nhưng… sẽ chẳng qua đâu”. (Mt 24,35)", "o": ["Lời Thầy", "Điều Thầy nói", "Lời Thầy truyền dạy", "Những lời Thầy nói"], "a": 3}
+  ]
+});

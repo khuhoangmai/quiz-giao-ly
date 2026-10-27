@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 1 (30 câu) */
+QUIZ.register({
+  id: "dt-01", group: "dt", kind: "fixed",
+  title: "Đề 1", short: "Điền từ đề 1", sub: "Câu 1–30 · 30 câu",
+  questions: [
+  {"n": 1, "q": "“Đây là gia phả Đức Giê-su Ki-tô, con cháu…, con cháu tổ phụ Áp-ra-ham” (Mt 1,1)", "o": ["Ông Gia-cóp", "Vua Đa-vít", "Ông Giu-se", "Vua Sa-lô-môn"], "a": 1},
+  {"n": 2, "q": "“Ông Áp-ra-ham sinh I-xa-ác; I-xa-ác sinh Gia-cóp; Gia-cóp sinh … và các anh em ông này” (Mt 1,2)", "o": ["Giu-se", "E-xau", "Giu-đa", "Rưu-vên"], "a": 2},
+  {"n": 3, "q": "“Gia-cóp sinh Giu-se, chồng của bà Ma-ri-a, bà là mẹ Đức Giê-su cũng gọi là…”. (Mt 1,16)", "o": ["Đấng Cứu Thế", "Con bác thợ mộc Giu-se", "Đấng Ki-tô", "Tất cả đều đúng"], "a": 2},
+  {"n": 4, "q": "“Sau đây là gốc tích Đức Giê-su Ki-tô: bà Ma-ri-a, mẹ Người, đã thành hôn với ông Giu-se. Nhưng trước khi hai ông bà về chung sống, bà đã có thai …”. (Mt 1,18)", "o": ["Do quyền năng Chúa Thánh Thần", "Do quyền năng các Thiên Thần", "Bởi quyền năng Thánh Thần", "Tất cả đều đúng."], "a": 0},
+  {"n": 5, "q": "“Ông Giu-se, chồng bà, là người… và không muốn tố giác bà, nên mới định tâm bỏ bà cách kín đáo”. (Mt 1,19)", "o": ["Nóng tính", "Công chính", "Thuộc dòng dõi Đa-vít", "Tất cả đều đúng."], "a": 1},
+  {"n": 6, "q": "“Này ông Giu-se,…, đừng ngại đón bà Ma-ri-a vợ ông về, vì người con bà cưu mang là do quyền năng Chúa Thánh Thần”. (Mt 1,20)", "o": ["Con vua Đa-vít", "Con cháu Gia-cóp", "Con cháu Đa-vít", "Dòng dõi Đa-vít"], "a": 2},
+  {"n": 7, "q": "“Bà sẽ sinh con trai và ông phải đặt tên cho con trẻ là Giê-su, vì chính Người sẽ… khỏi tội lỗi của họ.” (Mt 1,21)", "o": ["Cứu dân Người", "Giải thoát dân Người", "Cứu muôn người", "Tất cả đều sai"], "a": 0},
+  {"n": 8, "q": "“Này đây, Trinh Nữ sẽ thụ thai và sinh hạ một con trai, người ta sẽ gọi tên con trẻ là Em-ma-nu-en, nghĩa là “...” (Mt 1,23)", "o": ["Chúa ở cùng chúng ta", "Thiên Chúa ở cùng ta", "Thiên Chúa ở cùng chúng ta", "Chúa ở cùng anh chị em."], "a": 2},
+  {"n": 9, "q": "“Khi Đức Giê-su ra đời tại Bê-lem, miền Giu-đê, thời … trị vì, có mấy nhà chiêm tinh từ Phương Đông đến Giê-ru-sa-lem” (Mt 2,1)", "o": ["Quan Phi-la-tô", "Tổng trấn Qui-ri-ni-ô", "Vua Hê-rô-đê", "Hoàng đế Xê-da-rê"], "a": 2},
+  {"n": 10, "q": "“… mới sinh, hiện ở đâu? Chúng tôi đã thấy vì sao của Người xuất hiện bên Phương Đông, nên chúng tôi đến bái lạy Người.” (Mt 2,2)", "o": ["Đức Vua dân Do-thái", "Vua Do-thái", "Vị vua Do-thái", "Đức vua"], "a": 0},
+  {"n": 11, "q": "“Nhà vua liền triệu tập tất cả các thượng tế và kinh sư trong dân lại, rồi hỏi cho biết… phải sinh ra ở đâu”. (Mt 2,4)", "o": ["Đấng Ki-tô", "Đức vua dân Do-thái", "Đấng Cứu Thế", "Tất cả đều đúng."], "a": 0},
+  {"n": 12, "q": "Phần ngươi, hỡi Bê-lem, miền đất Giu-đa, ngươi đâu phải là thành nhỏ nhất của Giu-đa, vì ngươi là nơi… chăn dắt Ít-ra-en dân Ta sẽ ra đời.” (Mt 2,6)", "o": ["Vị vua", "Vị lãnh tụ", "Vị Cứu Thế", "Tất cả đều đúng."], "a": 1},
+  {"n": 13, "q": "Rồi vua phái các vị ấy đi Bê-lem và dặn rằng: “Xin quý ngài đi dò hỏi tường tận về Hài Nhi, và khi đã tìm thấy, xin báo lại cho tôi, để tôi cũng…” (Mt 2,8)", "o": ["Đến thờ lạy Người", "Đến để thờ lạy Người", "Đến bái lạy Người", "Đến triều bái Người"], "a": 2},
+  {"n": 14, "q": "“Nghe nhà vua nói thế, họ ra đi. Bấy giờ ngôi sao họ đã thấy ở Phương Đông, lại… cho họ đến tận nơi Hài Nhi ở, mới dừng lại”. (Mt 2,9)", "o": ["Dẫn đường", "Chỉ đường", "Soi đường", "Dẫn lối"], "a": 0},
+  {"n": 15, "q": "“Họ vào nhà, thấy Hài Nhi với thân mẫu là bà Ma-ri-a, liền… Người”. (Mt 2,11)", "o": ["Lấy lễ vật tiến dâng", "Sấp mình thờ lạy", "Dâng các bảo vật lên", "Tất cả đều đúng."], "a": 1},
+  {"n": 16, "q": "“Này ông, dậy… và mẹ Người trốn sang Ai-cập, và cứ ở đó cho đến khi tôi báo lại, vì vua Hê-rô-đê sắp tìm giết Hài Nhi đấy!” (Mt 2,13)", "o": ["Đem Hài Nhi", "Đem Con trẻ", "Đưa Hài Nhi mới sinh", "Tất cả đều đúng"], "a": 0},
+  {"n": 17, "q": "“Ông ở đó cho đến khi vua Hê-rô-đê băng hà, để ứng nghiệm lời Chúa phán xưa qua miệng ngôn sứ:… ra khỏi Ai-cập”. (Mt 2,15)", "o": ["Ta đã gọi con Ta", "Ta đã đưa con Ta", "Ta truyền cho con Ta", "Tất cả đều đúng."], "a": 0},
+  {"n": 18, "q": "“Này ông, dậy đem Hài Nhi và mẹ Người…, vì những kẻ tìm giết Hài Nhi đã chết rồi” (Mt 2,19-20)", "o": ["Trốn sang Ai-cập", "Về Na-da-rét", "Về đất Ít-ra-en", "Trở về quê cũ"], "a": 2},
+  {"n": 19, "q": "“Ông liền trỗi dậy đưa Hài Nhi và mẹ Người về đất Ít-ra-en. Nhưng vì nghe biết Ác-khê-lao đã kế vị vua cha là Hê-rô-đê, cai trị miền Giu-đê, nên ông sợ…”. (Mt 2,21-22)", "o": ["Không dám về đó", "Trốn đi nơi khác", "Bỏ sang thành khác", "Tất cả đều đúng"], "a": 0},
+  {"n": 20, "q": "“Rồi sau khi được báo mộng, ông lui về miền Ga-li-lê, và đến ở tại một thành kia gọi là …”. (Mt 2,22-23)", "o": ["Bê-lem", "Na-da-rét", "Ga-li-lê", "Sa-ma-ri"], "a": 1},
+  {"n": 21, "q": "“Hồi ấy, ông Gio-an Tẩy Giả đến rao giảng trong hoang địa miền Giu-đê rằng: “…, vì Nước Trời đã đến gần”. (Mt 3,1-2)", "o": ["Hãy sám hối", "Hãy ăn năn sám hối", "Anh em hãy sám hối", "Anh em hãy thống hối"], "a": 2},
+  {"n": 22, "q": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa,…để Người đi”. (Mt 3,3)", "o": ["Sửa lối cho thẳng", "Hãy nắn cho thẳng", "Chỉnh lối cho thẳng", "Bạt mọi núi đồi"], "a": 0},
+  {"n": 23, "q": "“Bấy giờ, người ta từ Giê-ru-sa-lem và khắp miền Giu-đê, cùng khắp vùng ven sông Gio-đan, kéo đến với ông. Họ thú tội, và ông… cho họ trong sông Gio-đan”. (Mt 3,5- 6)", "o": ["Giảng dạy", "Làm phép rửa", "Rửa tội", "Rao giảng"], "a": 1},
+  {"n": 24, "q": "“Các anh hãy… để chứng tỏ lòng sám hối”. (Mt 3,8)", "o": ["Sinh hoa quả", "Khóc lóc kêu than", "Đấm ngực ăn năn", "Tất cả đều đúng"], "a": 0},
+  {"n": 25, "q": "“Đừng tưởng có thể bảo mình rằng: ‘Chúng ta đã có...’ Vì, tôi nói cho các anh hay, Thiên Chúa có thể làm cho những hòn đá này trở nên con cháu ông Áp-ra-ham”. (Mt 3,9)", "o": ["Mô-sê", "Tổ phụ Áp-ra-ham", "Giê-ru-sa-lem", "Đền thờ"], "a": 1},
+  {"n": 26, "q": "“Cái rìu đã đặt sát gốc cây: bất cứ cây nào… đều bị chặt đi và quăng vào lửa”. (Mt 3,10)", "o": ["Không sinh trái tốt", "Sinh trái tốt", "Không sinh quả tốt", "Không sinh hoa trái"], "a": 2},
+  {"n": 27, "q": "“Tôi, tôi làm phép rửa cho các anh trong nước để…”. (Mt 3,11)", "o": ["Tỏ lòng sám hối", "Giục lòng sám hối", "Bày tỏ lòng thống hối", "Giục lòng các anh sám hối"], "a": 3},
+  {"n": 28, "q": "“Còn Đấng đến sau tôi thì quyền thế hơn tôi, tôi không đáng xách dép cho Người. Người sẽ làm phép rửa cho các anh trong…”. (Mt 3,11)", "o": ["Thánh Thần", "Nước", "Nước và Thánh Thần", "Thánh Thần và lửa"], "a": 3},
+  {"n": 29, "q": "“Tay Người cầm nia, Người sẽ rê sạch lúa trong sân: thóc mẩy thì thu vào kho lẫm, còn thóc lép thì bỏ vào… mà đốt đi .” (Mt 3,12)", "o": ["Lửa không hề tắt", "Lửa", "Lò lửa", "Trong lò lửa"], "a": 0},
+  {"n": 30, "q": "“Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để...” (Mt 3,15)", "o": ["Được nên công chính", "Làm cho nên công chính", "Trở nên công chính", "Giữ trọn đức công chính"], "a": 3}
+  ]
+});

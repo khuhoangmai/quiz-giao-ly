@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 2 (30 câu) */
+QUIZ.register({
+  id: "dt-02", group: "dt", kind: "fixed",
+  title: "Đề 2", short: "Điền từ đề 2", sub: "Câu 31–60 · 30 câu",
+  questions: [
+  {"n": 31, "q": "“Đây là…, Ta hài lòng về Người.” (Mt 3,17)", "o": ["Con Ta yêu dấu", "Người Con Ta yêu dấu", "Con yêu dấu của Ta", "Con yêu dấu"], "a": 2},
+  {"n": 32, "q": "“Bấy giờ Đức Giê-su được… dẫn vào hoang địa, để chịu quỷ cám dỗ”. (Mt 4,1)", "o": ["Thánh Thần", "Các Thiên Thần", "Thần Khí", "Thần sứ"], "a": 2},
+  {"n": 33, "q": "“Khi ấy tên cám dỗ đến gần Người và nói: “Nếu ông là…, thì truyền cho những hòn đá này hoá bánh đi!” (Mt 4,3)", "o": ["Con Một Thiên Chúa", "Con Thiên Chúa", "Thiên Chúa", "Đấng Ki-tô"], "a": 1},
+  {"n": 34, "q": "“Đã có lời chép rằng: Người ta sống không chỉ nhờ cơm bánh, nhưng còn nhờ mọi lời...” (Mt 4,4)", "o": ["Miệng Thiên Chúa phán ra", "Do miệng Thiên Chúa phán ra", "Do Thiên Chúa phán ra", "Bởi miệng Thiên Chúa phán ra"], "a": 0},
+  {"n": 35, "q": "“Nếu ông là…, thì gieo mình xuống đi! Vì đã có lời chép rằng: Thiên Chúa sẽ truyền cho thiên sứ lo cho bạn, và thiên sứ sẽ tay đỡ tay nâng, cho bạn khỏi vấp chân vào đá.” (Mt 4,6)", "o": ["Con Một Thiên Chúa", "Con Thiên Chúa", "Thiên Chúa", "Đấng Ki-tô"], "a": 1},
+  {"n": 36, "q": "“Đức Giê-su đáp: “Nhưng cũng đã có lời chép rằng: Ngươi chớ… Đức Chúa là Thiên Chúa của ngươi.” (Mt 4,7)", "o": ["Thách thức", "Thử lòng", "Thử thách", "Khinh thường"], "a": 2},
+  {"n": 37, "q": "“Tôi sẽ cho ông tất cả những thứ đó, nếu ông… tôi.” (Mt 4,9)", "o": ["Bái lạy", "Thờ lạy", "Sấp mình dưới chân", "Sấp mình bái lạy"], "a": 3},
+  {"n": 38, "q": "“Đức Giê-su liền nói: “Xa-tan kia, xéo đi! Vì đã có lời chép rằng: Ngươi phải bái lạy Đức Chúa là Thiên Chúa của ngươi, và phải… một mình Người mà thôi.” (Mt 4,10)", "o": ["Thờ lạy", "Tôn thờ", "Sấp mình bái lạy", "Thờ phượng"], "a": 3},
+  {"n": 39, "q": "“Đoàn dân đang ngồi trong cảnh tối tăm đã thấy..., những kẻ đang ngồi trong vùng bóng tối của tử thần nay được ánh sáng bừng lên chiếu rọi”. (Mt 4,16)", "o": ["Một vì sao xuất hiện", "Một ngôi sao xuất hiện", "Nguồn ánh sáng huy hoàng", "Một ánh sáng huy hoàng"], "a": 3},
+  {"n": 40, "q": "“Từ lúc đó, Đức Giê-su bắt đầu rao giảng và nói rằng: “Anh em hãy…, vì Nước Trời đã đến gần.” (Mt 4,17)", "o": ["Thối hối", "Trở về", "Ăn năn thống hối", "Sám hối"], "a": 3},
+  {"n": 41, "q": "“Người bảo các ông: “Các anh hãy theo tôi, tôi sẽ làm cho các anh thành những kẻ…” (Mt 4,19)", "o": ["Chài lưới người", "Lưới người như lưới cá", "Đi chài lưới người", "Chài lưới người ta"], "a": 1},
+  {"n": 42, "q": "“Thế rồi Đức Giê-su đi khắp miền Ga-li-lê, giảng dạy trong các hội đường,…, và chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân”. (Mt 4,23)", "o": ["Rao giảng Tin Mừng", "Rao giảng Nước Trời", "Loan báo Tin Mừng Nước Trời", "Rao giảng Tin Mừng Nước Trời"], "a": 3},
+  {"n": 43, "q": "“Từ miền Ga-li-lê, vùng Thập Tỉnh, thành Giê-ru-sa-lem, miền Giu-đê và vùng bên kia sông Gio-đan, dân chúng lũ lượt kéo đến…”. (Mt 4,25)", "o": ["Đi theo Người", "Nghe Người giảng", "Để nghe Người giảng dạy", "Để nghe lời Người"], "a": 0},
+  {"n": 44, "q": "“Phúc thay ai có… nghèo khó, vì Nước Trời là của họ”. (Mt 5,3)", "o": ["Tinh thần", "Tâm hồn", "Lòng", "Đời sống"], "a": 1},
+  {"n": 45, "q": "“Phúc thay ai hiền lành, vì họ sẽ được… làm gia nghiệp”. (Mt 5,4)", "o": ["Nước Trời", "Chính Chúa", "Đất Hứa", "Tất cả đều đúng"], "a": 2},
+  {"n": 46, "q": "“Phúc thay ai…, vì họ sẽ được Thiên Chúa ủi an”. (Mt 5,5)", "o": ["Sầu khổ", "Khóc lóc", "Than khóc", "Buồn khổ"], "a": 0},
+  {"n": 47, "q": "“Phúc thay ai khát khao…, vì họ sẽ được Thiên Chúa cho thoả lòng”. (Mt 5,6)", "o": ["Nên hoàn thiện", "Nên người hoàn thiện", "Nên người công chính", "Nên người giàu có"], "a": 2},
+  {"n": 48, "q": "“Phúc thay ai…, vì họ sẽ được Thiên Chúa xót thương”. (Mt 5,7)", "o": ["Biết xót thương người", "Yêu mến người", "Thương xót người", "Xót thương người"], "a": 3},
+  {"n": 49, "q": "“Phúc thay ai …, vì họ sẽ được nhìn thấy Thiên Chúa”. (Mt 5,8)", "o": ["Hiền lành", "Có lòng trong sạch", "Sống đời trong sạch", "Có tâm hồn trong sạch"], "a": 3},
+  {"n": 50, "q": "“Phúc thay ai…, vì họ sẽ được gọi là con Thiên Chúa”. (Mt 5,9)", "o": ["Có tâm hồn trong sạch", "Xót thương người", "Làm cho người hòa thuận", "Xây dựng hoà bình"], "a": 3},
+  {"n": 51, "q": "“Phúc thay ai bị bách hại vì…, vì Nước Trời là của họ”. (Mt 5,10)", "o": ["Sống công chính", "Ở công chính", "Sống ngay lành", "Danh Thầy"], "a": 0},
+  {"n": 52, "q": "“Phúc thay anh em khi… mà bị người ta sỉ vả, bách hại và vu khống đủ điều xấu xa. (Mt 5,11)", "o": ["Vì Thầy", "Vì Danh Thầy", "Vì Tin Mừng", "Tất cả đều đúng"], "a": 0},
+  {"n": 53, "q": "“Anh em hãy…, vì phần thưởng dành cho anh em ở trên trời thật lớn lao”. (Mt 5,12)", "o": ["Vui mừng", "Kiên tâm chịu đựng", "Vui mừng hớn hở", "Kiên tâm bền chí"], "a": 2},
+  {"n": 54, "q": "“Chính anh em là muối cho đời. Nhưng muối mà…, thì lấy gì muối nó cho mặn lại?” (Mt 5,13)", "o": ["Không còn mặn", "Nhạt đi", "Ra nhạt", "Hết mặn"], "a": 1},
+  {"n": 55, "q": "“Chính anh em là ánh sáng cho... Một thành xây trên núi không tài nào che giấu được”. (Mt 5,14)", "o": ["Trần gian", "Thế gian", "Đời", "Thế gian này"], "a": 0},
+  {"n": 56, "q": "“Cũng chẳng có ai thắp đèn rồi lại để dưới cái thùng, nhưng…, và đèn soi chiếu cho mọi người trong nhà”. (Mt 5,15)", "o": ["Đặt trên đế", "Đặt trên giá", "Treo trên giá", "Treo trên tường"], "a": 0},
+  {"n": 57, "q": "“Cũng vậy, ánh sáng của anh em phải chiếu giãi trước mặt thiên hạ, để họ thấy những… anh em làm, mà tôn vinh Cha của anh em, Đấng ngự trên trời”. (Mt 5,16)", "o": ["Việc tốt đẹp", "Công việc tốt đẹp", "Việc tốt lành", "Việc tốt"], "a": 1},
+  {"n": 58, "q": "“Anh em đừng tưởng Thầy đến để bãi bỏ Luật Mô-sê hoặc lời các ngôn sứ. Thầy đến không phải là để bãi bỏ, nhưng là để …”. (Mt 5,17)", "o": ["Làm cho hoàn thiện", "Làm cho kiện toàn", "Hoàn thiện", "Kiện toàn"], "a": 3},
+  {"n": 59, "q": "“Vì, Thầy bảo thật anh em, trước khi trời đất qua đi, thì một chấm một phết trong Lề Luật cũng sẽ không qua đi, cho đến khi…”. (Mt 5,18)", "o": ["Mọi việc được hoàn tất", "Con Người đến", "Mọi sự được hoàn thành", "Tất cả đều sai"], "a": 2},
+  {"n": 60, "q": "“Vậy ai bãi bỏ dù chỉ là một trong những…, và dạy người ta làm như thế, thì sẽ bị gọi là kẻ nhỏ nhất trong Nước Trời.” (Mt 5,19)", "o": ["Điều răn nhỏ nhất ấy", "Điều răn ấy", "Giới răn này", "Điều Thầy nói đây"], "a": 0}
+  ]
+});

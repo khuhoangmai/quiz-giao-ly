@@ -1,0 +1,37 @@
+/* Trắc nghiệm khách quan – đề 1 (30 câu) */
+QUIZ.register({
+  id: "tn-01", group: "tn", kind: "fixed",
+  title: "Đề 1", short: "TN đề 1", sub: "Câu 1–30 · 30 câu",
+  questions: [
+  {"n": 1, "q": "Ai là người đã sinh ra Giu-se, chồng của bà Ma-ri-a? (x. Mt 1,16)", "o": ["Rơ-kháp-am", "E-la-da", "Gia-cóp", "Dơ-rúp-ba-ven"], "a": 2},
+  {"n": 2, "q": "“Khi Đức Giê-su ra đời tại Bê-lem, miền Giu-đê, thời vua Hê-rô-đê trị vì, có mấy nhà chiêm tinh đến Giê-ru-sa-lem. Họ từ đâu đến? (x. Mt 2,1)", "o": ["Ga-li-lê", "Phương Đông", "Phương Tây", "Tia và Xi-đôn"], "a": 1},
+  {"n": 3, "q": "“Xin quý ngài đi dò hỏi tường tận về Hài Nhi, và khi đã tìm thấy, xin báo lại cho tôi, để tôi cũng đến bái lạy Người.” Ai đã nói câu này? (x. Mt 2,8)", "o": ["Quan Phi-la-tô", "Vua Hê-rô-đê", "Thượng tế Cai-pha", "Tất cả đều đúng."], "a": 1},
+  {"n": 4, "q": "“Họ vào nhà, thấy Hài Nhi với thân mẫu là bà Ma-ri-a, liền sấp mình thờ lạy Người”. Họ là ai? (x. Mt 2,1-12)", "o": ["Các mục đồng", "Những người chăn chiên", "Mấy nhà chiêm tinh", "Tất cả đều sai"], "a": 2},
+  {"n": 5, "q": "“Ông ở đó cho đến khi vua Hê-rô-đê băng hà, để ứng nghiệm lời Chúa phán xưa qua miệng ngôn sứ: Ta đã gọi con Ta ra khỏi Ai-cập”. Ông là ai? (x. Mt 2,14-15)", "o": ["Gio-an Tẩy Giả", "Giu-se", "Si-môn Phê-rô", "Tất cả đều đúng."], "a": 1},
+  {"n": 6, "q": "“Rồi sau khi được báo mộng, ông lui về miền Ga-li-lê, và đến ở tại một thành kia gọi là Na-da-rét, để ứng nghiệm lời đã phán qua miệng các ngôn sứ rằng: Người sẽ được gọi là người Na-da-rét”. Ông là ai? (x. Mt 2,19-23)", "o": ["Gio-an Tẩy Giả", "Si-môn Phê-rô", "Giu-se", "Tất cả đều đúng."], "a": 2},
+  {"n": 7, "q": "“Anh em hãy sám hối, vì Nước Trời đã đến gần”. Ai đã nói câu này? (x. Mt 3,1-2)", "o": ["Đức Giê-su", "Gio-an Tẩy Giả", "Ngôn sứ I-sai-a", "Tất cả đều đúng."], "a": 1},
+  {"n": 8, "q": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa, sửa lối cho thẳng để Người đi”. Ngôn sứ nào đã nói câu này? (x. Mt 3,3)", "o": ["Ngôn sứ I-sai-a", "Ngôn sứ Ma-la-khi", "Ngôn sứ A-mốt", "Ngôn sứ Hô-sê"], "a": 0},
+  {"n": 9, "q": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa, sửa lối cho thẳng để Người đi”. Ngôn sứ đã nói câu này về ai? (x. Mt 3,1-3)", "o": ["Đức Giê-su", "Gio-an Tẩy Giả", "Đức Maria", "Tất cả đều đúng."], "a": 1},
+  {"n": 10, "q": "“Ông mặc áo lông lạc đà, thắt lưng bằng dây da, lấy châu chấu và mật ong rừng làm thức ăn”. Ông là ai? (x. Mt 3,1-4)", "o": ["Gio-an Tông đồ", "An-rê", "Si-môn Phê-rô", "Gio-an Tẩy Giả"], "a": 3},
+  {"n": 11, "q": "“Nòi rắn độc kia, ai đã chỉ cho các anh cách trốn cơn thịnh nộ của Thiên Chúa sắp giáng xuống vậy?” Ông Gio-an nói lời này với ai? (x. Mt 3,7)", "o": ["Người thuộc phái Pha-ri-sêu", "Người thuộc phái Xa-đốc", "Các kinh sư", "Cả A và B"], "a": 3},
+  {"n": 12, "q": "“Các anh hãy sinh hoa quả để chứng tỏ lòng sám hối”. Ông Gio-an nói lời này với ai? (x. Mt 3,7-8)", "o": ["Người thuộc phái Pha-ri-sêu", "Người thuộc phái Xa-đốc", "Các kinh sư", "Cả A và B"], "a": 3},
+  {"n": 13, "q": "“Tôi, tôi làm phép rửa cho các anh trong nước để giục lòng các anh sám hối. Còn Đấng đến sau tôi thì quyền thế hơn tôi, tôi không đáng xách dép cho Người”. Ông Gio-an nói lời này về ai? (x. Mt 3,1-17)", "o": ["Vua Hê-rô-đê", "Tổng trấn Phi-la-tô", "Đức Giê-su", "Qui-ri-ni-ô"], "a": 2},
+  {"n": 14, "q": "“Tay Người cầm nia, Người sẽ rê sạch lúa trong sân: thóc mẩy thì thu vào kho lẫm, còn thóc lép thì bỏ vào lửa không hề tắt mà đốt đi.” Ông Gio-an nói lời này về ai? (x. Mt 3,1-17)", "o": ["Đức Giê-su", "Qui-ri-ni-ô", "Tổng lãnh thiên thần", "Hoàng đế Au-gút-tô"], "a": 0},
+  {"n": 15, "q": "Bấy giờ, Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để làm gì? (x. Mt 3,13)", "o": ["Xin ông rửa tội cho mình", "Mời ông cộng tác với mình", "Xin ông làm phép rửa cho mình", "Xin ông rời đi chỗ khác"], "a": 2},
+  {"n": 16, "q": "“Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Ai đã nói câu này? (x. Mt 3,14)", "o": ["Đức Giê-su", "Ông Phê-rô", "Ông trưởng hội đường", "Gio-an Tẩy Giả"], "a": 3},
+  {"n": 17, "q": "“Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Ông Gio-an đã nói câu này với ai? (x. Mt 3,13-14)", "o": ["Đức Giê-su", "Vua Hê-rô-đê", "Phi-la-tô", "Thầy thượng tế"], "a": 0},
+  {"n": 18, "q": "“Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính” Ai đã nói câu này? (x. Mt 3,15)", "o": ["Gio-an Tẩy Giả", "Đức Giê-su", "Ông Si-môn cùi", "Ông trưởng hội đường"], "a": 1},
+  {"n": 19, "q": "“Đây là Con yêu dấu của Ta, Ta hài lòng về Người.” Ai đã nói câu này? (x. Mt 3,17)", "o": ["Chúa Thánh Thần", "Thánh Giu-se", "Đức Maria", "Tiếng từ trời"], "a": 3},
+  {"n": 20, "q": "Ai đã dẫn Đức Giê-su vào hoang địa để chịu quỷ cám dỗ? (x. Mt 4,1)", "o": ["Đức Chúa Cha", "Các Thiên Thần", "Thần Khí", "Tất cả đều sai"], "a": 2},
+  {"n": 21, "q": "“Khi ấy tên cám dỗ đến gần Người và nói: “Nếu ông là Con Thiên Chúa, thì truyền cho những hòn đá này hoá bánh đi!” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,3-4)", "o": ["Thứ nhất", "Thứ hai", "Thứ ba", "Tất cả đều sai"], "a": 0},
+  {"n": 22, "q": "“Nếu ông là Con Thiên Chúa, thì gieo mình xuống đi! Vì đã có lời chép rằng: Thiên Chúa sẽ truyền cho thiên sứ lo cho bạn, và thiên sứ sẽ tay đỡ tay nâng, cho bạn khỏi vấp chân vào đá.” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,5-7)", "o": ["Thứ nhất", "Thứ hai", "Thứ ba", "Tất cả đều sai"], "a": 1},
+  {"n": 23, "q": "“Tôi sẽ cho ông tất cả những thứ đó, nếu ông sấp mình bái lạy tôi.” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,8-10)", "o": ["Thứ nhất", "Thứ hai", "Thứ ba", "Tất cả đều sai"], "a": 2},
+  {"n": 24, "q": "Khi Đức Giê-su nghe tin ông Gio-an đã bị nộp, Người lánh qua miền Ga-li-lê. Rồi Người bỏ Na-da-rét, đến ở một thành ven biển hồ Ga-li-lê, thuộc địa hạt Dơ-vu-lun và Náp-ta-li. Thành đó là thành nào? (x. Mt 4,12-13)", "o": ["Bét-sai-đa", "Khô-ra-din", "Xê-xa-rê Phi-líp-phê", "Ca-phác-na-um"], "a": 3},
+  {"n": 25, "q": "“Đoàn dân đang ngồi trong cảnh tối tăm đã thấy một ánh sáng huy hoàng, những kẻ đang ngồi trong vùng bóng tối của tử thần nay được ánh sáng bừng lên chiếu rọi”. Ngôn sứ nào đã nói câu này? (x. Mt 4,12-16)", "o": ["Giê-rê-mi-a", "Ê-li-a", "Mi-kha", "I-sai-a"], "a": 3},
+  {"n": 26, "q": "Khi Đức Giê-su gọi hai anh em Si-môn và An-rê, các ông đang làm gì? (x. Mt 4,18- 20)", "o": ["Đang vá lưới trên thuyền", "Đang ngồi ở bàn thu thuế", "Đang ở nhà", "Đang quăng chài xuống biển"], "a": 3},
+  {"n": 27, "q": "“Người bảo các ông: “Các anh hãy theo tôi, tôi sẽ làm cho các anh thành những kẻ lưới người như lưới cá.” Đức Giê-su nói câu này với ai? (x. Mt 4,18-19)", "o": ["Si-môn và An-rê", "Gia-cô-bê và Gio-an", "Si-môn và Gio-an", "Gia-cô-bê và An-rê"], "a": 0},
+  {"n": 28, "q": "Khi Đức Giê-su gọi hai anh em Gia-cô-bê và Gio-an, các ông đang làm gì? (x. Mt 4,18-20)", "o": ["Đang vá lưới ở trong thuyền", "Đang ngồi ở bàn thu thuế", "Đang ở nhà", "Đang quăng chài xuống biển"], "a": 0},
+  {"n": 29, "q": "Hai anh em Gia-cô-bê và Gio-an là con của ai? (x. Mt 4,21-22)", "o": ["Si-môn Ky-rê-nê", "Gia-ia", "Da-ca-ri-a", "Dê-bê-đê"], "a": 3},
+  {"n": 30, "q": "“Lập tức hai ông bỏ chài lưới mà đi theo Người”. Câu này nói về cặp anh em nào? (x. Mt 4,18-20)", "o": ["Si-môn và Gia-cô-bê", "Gia-cô-bê và Gio-an", "Si-môn và An-rê", "An-rê và Gio-an"], "a": 2}
+  ]
+});

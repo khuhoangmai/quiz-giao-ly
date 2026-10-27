@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f97316">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<title>Ôn tập Giáo lý – Tin Mừng theo Thánh Mát-thêu</title>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Trang chủ"><img class="logo" src="assets/logo.png" alt="Logo nhóm Sinh viên Công giáo Thái Bình - Hà Nội"></a>
+  <div class="titles">
+    <div class="kicker">Sinh viên Công giáo Thái Bình - Hà Nội</div>
+    <h1>Ôn tập Giáo lý</h1>
+  </div>
+  <button id="soundBtn" class="icon-btn" type="button" aria-pressed="true" title="Bật/tắt âm thanh">🔊</button>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <span class="pill">Lễ Đại Kết · Ngày hội Cựu - Đương - Tân 2026</span>
+    <h2>Tin Mừng theo<br>Thánh Mát-thêu</h2>
+    <p>Bộ câu hỏi ôn tập thi giáo lý</p>
+    <p class="verse">“Hãy sống theo Thần Khí” – Gl 5,16</p>
+  </section>
+
+  <section class="card overall">
+    <div class="overall-head"><b id="ovMain"></b><span id="ovSub"></span></div>
+    <div class="bar" id="ovBarWrap"><i id="ovBar"></i></div>
+  </section>
+
+  <div id="groups" style="display:grid;gap:14px"></div>
+
+  <p class="footer-note">Tiến độ được lưu ngay trên thiết bị của bạn. <button id="resetAll" class="link-btn" type="button">Xoá toàn bộ tiến độ</button></p>
+</main>
+
+<script src="js/core.js"></script>
+  <script src="data/01-de-cuong.js"></script>
+  <script src="data/02-trac-nghiem-01.js"></script>
+  <script src="data/02-trac-nghiem-02.js"></script>
+  <script src="data/02-trac-nghiem-03.js"></script>
+  <script src="data/02-trac-nghiem-04.js"></script>
+  <script src="data/02-trac-nghiem-05.js"></script>
+  <script src="data/02-trac-nghiem-06.js"></script>
+  <script src="data/02-trac-nghiem-random.js"></script>
+  <script src="data/03-dien-tu-01.js"></script>
+  <script src="data/03-dien-tu-02.js"></script>
+  <script src="data/03-dien-tu-03.js"></script>
+  <script src="data/03-dien-tu-04.js"></script>
+  <script src="data/03-dien-tu-05.js"></script>
+  <script src="data/03-dien-tu-06.js"></script>
+  <script src="data/03-dien-tu-07.js"></script>
+  <script src="data/03-dien-tu-08.js"></script>
+  <script src="data/03-dien-tu-09.js"></script>
+  <script src="data/03-dien-tu-10.js"></script>
+  <script src="data/03-dien-tu-random.js"></script>
+  <script src="data/04-luoc-su-01.js"></script>
+  <script src="data/04-luoc-su-02.js"></script>
+  <script src="data/04-luoc-su-03.js"></script>
+  <script src="data/04-luoc-su-04.js"></script>
+  <script src="data/04-luoc-su-random.js"></script>
+<script src="js/app.js"></script>
+<script>
+  (function(){
+    var b=document.getElementById('soundBtn');
+    function p(){b.textContent=QUIZ.sound.on?'🔊':'🔇';b.setAttribute('aria-pressed',QUIZ.sound.on?'true':'false');}
+    p(); b.addEventListener('click',function(){QUIZ.sound.toggle();p();});
+  })();
+</script>
+</body>
+</html>

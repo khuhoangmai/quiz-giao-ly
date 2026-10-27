@@ -1,0 +1,37 @@
+/* Điền từ vào chỗ chấm – đề 6 (30 câu) */
+QUIZ.register({
+  id: "dt-06", group: "dt", kind: "fixed",
+  title: "Đề 6", short: "Điền từ đề 6", sub: "Câu 151–180 · 30 câu",
+  questions: [
+  {"n": 151, "q": "“Ai…, là chống lại tôi; và ai không cùng tôi thu góp, là phân tán”. (Mt 12,30)", "o": ["Không đi với tôi", "Cùng phe với tôi", "Không thuộc về tôi", "Không thần phục tôi"], "a": 0},
+  {"n": 152, "q": "“Vì thế, tôi nói cho các ông hay: mọi tội, kể cả tội nói phạm thượng, cũng sẽ được tha cho loài người, chứ tội nói phạm đến… sẽ chẳng được tha”. (Mt 12,31)", "o": ["Thánh Thần", "Chúa Thánh Thần", "Thần Khí", "Chúa Cha"], "a": 2},
+  {"n": 153, "q": "“Ai nói phạm đến Con Người thì được tha; nhưng ai nói phạm đến Thánh Thần sẽ chẳng được tha,…”. (Mt 12,32)", "o": ["Nhưng bị lửa hỏa ngục", "Cả đời này lẫn đời sau", "Nhưng bị ném vào hỏa ngục", "Đến muôn đời muôn kiếp"], "a": 1},
+  {"n": 154, "q": "“Cây mà tốt thì quả cũng tốt; cây mà sâu thì quả cũng sâu, vì…”. (Mt 12,33)", "o": ["Cây nào sinh quả đó", "Cây nào sinh trái đó", "Có xem quả mới biết cây", "Xem quả thì biết cây"], "a": 3},
+  {"n": 155, "q": "“Loài rắn độc kia, xấu như các người, thì làm sao…? Vì lòng có đầy, miệng mới nói ra”. (Mt 12,34)", "o": ["Nói điều tốt được", "Có thể làm việc tốt được", "Làm điều tốt được", "Làm việc lành được"], "a": 0},
+  {"n": 156, "q": "“Tôi nói cho các người hay: đến Ngày phán xét, người ta sẽ phải trả lời về… mình đã nói”. (Mt 12,36)", "o": ["Mọi lời xấu xa", "Những điều xấu", "Mọi điều vô ích", "Những lời độc ác"], "a": 2},
+  {"n": 157, "q": "“Vì nhờ lời nói của anh mà anh sẽ được trắng án; và cũng tại lời nói của anh mà anh...” (Mt 12,37)", "o": ["Sẽ bị kết án", "Sẽ bị luận phạt", "Sẽ bị án phạt", "Sẽ bị trách phạt"], "a": 0},
+  {"n": 158, "q": "“Trong cuộc phán xét, dân thành Ni-ni-vê sẽ trỗi dậy cùng với thế hệ này và sẽ kết án họ, vì xưa dân ấy đã… khi nghe ông Giô-na rao giảng; mà đây thì còn hơn ông Giô-na nữa”. (Mt 12,41)", "o": ["Tỏ lòng sám hối", "Sám hối", "Tỏ lòng thống hối", "Ăn năn thống hối"], "a": 1},
+  {"n": 159, "q": "“Trong cuộc phán xét, nữ hoàng Phương Nam sẽ đứng lên cùng với thế hệ này, và bà sẽ kết án họ, vì xưa bà đã từ tận cùng trái đất đến nghe lời khôn ngoan của vua Sa-lô-môn; mà đây thì còn…”. (Mt 12,42)", "o": ["Cao trọng hơn Sa-lô-mon", "Hơn cả Sa-lô-mon nữa", "Hơn vua Sa-lô-môn nữa", "Hơn cả vua ấy nữa"], "a": 2},
+  {"n": 160, "q": "“Vì phàm ai… của Cha tôi, Đấng ngự trên trời, người ấy là anh chị em tôi, là mẹ tôi.” (Mt 12,50)", "o": ["Làm theo ý", "Tuân hành theo ý", "Tuân hành ý muốn", "Thi hành ý muốn"], "a": 3},
+  {"n": 161, "q": "“Người gieo giống đi ra gieo giống. Trong khi người ấy gieo, thì có những hạt rơi xuống vệ đường,…” (Mt 13,3-4)", "o": ["Nó liền bị cháy", "Chim chóc đến ăn mất", "Nó liền mọc ngay", "Nó liền bị chết khô"], "a": 1},
+  {"n": 162, "q": "“Có những hạt rơi…, chỗ đất không có nhiều; nó mọc ngay, vì đất không sâu; nhưng khi nắng lên, nó liền bị cháy, và vì thiếu rễ nên bị chết khô”. (Mt 13,5-6)", "o": ["Trên vệ đường", "Vào bụi gai", "Trên nơi sỏi đá", "Rơi trên đất khô cằn"], "a": 2},
+  {"n": 163, "q": "“Có những hạt rơi vào bụi gai, gai mọc lên làm nó…”. (Mt 13,7)", "o": ["Chết nghẹt", "Bị héo khô", "Bị chết khô", "Bị chết nghẹt"], "a": 0},
+  {"n": 164, "q": "“Có những hạt lại rơi nhằm đất tốt, nên…: hạt được gấp trăm, hạt được sáu chục, hạt được ba chục”. (Mt 13,8)", "o": ["Sinh nhiều hoa trái", "Sinh hoa trái", "Liền mọc lên", "Sinh hoa kết quả"], "a": 3},
+  {"n": 165, "q": "“Ai đã có thì được cho thêm, và…; còn ai không có, thì ngay cái đang có, cũng sẽ bị lấy mất”. (Mt 13,12)", "o": ["Được dư giả", "Sẽ có dư thừa", "Được dư dật", "Sẽ được dư giả"], "a": 1},
+  {"n": 166, "q": "“Bởi thế, nếu Thầy dùng dụ ngôn mà nói với họ, là vì họ nhìn mà không nhìn, nghe mà…”. (Mt 13,13)", "o": ["Không nghe", "Không hiểu", "Chẳng hiểu", "Cả A và B"], "a": 3},
+  {"n": 167, "q": "“Còn anh em, mắt anh em thật có phúc vì…, tai anh em thật có phúc, vì được nghe”. (Mt 13,16)", "o": ["Được xem thấy", "Được trông thấy", "Được thấy", "Được nhìn thấy"], "a": 2},
+  {"n": 168, "q": "“Quả thế, Thầy bảo thật anh em, nhiều ngôn sứ và nhiều người công chính đã mong mỏi thấy điều anh em…, mà không được thấy, nghe điều anh em đang nghe, mà không được nghe”. (Mt 13,17)", "o": ["Đang thấy", "Đang thấy đây", "Đã thấy", "Đã từng thấy"], "a": 0},
+  {"n": 169, "q": "“Cứ để cả hai cùng lớn lên cho tới mùa gặt. Đến ngày mùa, tôi sẽ bảo thợ gặt: hãy gom cỏ lùng lại, bó thành bó…, còn lúa, thì hãy thu vào kho lẫm cho tôi.’” (Mt 13,30)", "o": ["Mà quăng vào lửa", "Mà đốt đi", "Mà ném vào lửa", "Rồi lấy lửa đốt đi"], "a": 1},
+  {"n": 170, "q": "“Vậy, như người ta nhặt cỏ lùng … thế nào, thì đến ngày tận thế cũng sẽ xảy ra như vậy”. (Mt 13,40)", "o": ["Rồi quăng vào lửa", "Rồi ném vào lửa", "Mà vứt vào lửa", "Rồi lấy lửa đốt đi"], "a": 3},
+  {"n": 171, "q": "“Con Người sẽ sai các thiên thần của Người tập trung mọi kẻ làm gương mù gương xấu và mọi kẻ làm điều gian ác, mà…, rồi quăng chúng vào lò lửa; ở đó, chúng sẽ phải khóc lóc nghiến răng”. (Mt 13,41-42)", "o": ["Tống ra ngoài", "Trói lại", "Tống ra khỏi Nước của Người", "Tra tấn, đánh đập"], "a": 2},
+  {"n": 172, "q": "“Nước Trời giống như chuyện kho báu chôn giấu trong ruộng. Có người kia gặp được thì liền chôn giấu lại, rồi vui mừng… mà mua thửa ruộng ấy”. (Mt 13,44)", "o": ["Bán hết tài sản của mình", "Đi bán tất cả những gì mình có", "Đem bán tất cả tài sản", "Đem bán tất cả gia tài"], "a": 1},
+  {"n": 173, "q": "“Nước Trời lại cũng giống như chuyện một thương gia đi tìm ngọc đẹp. Tìm được một viên ngọc quý, ông ta ra đi, … mà mua viên ngọc ấy”. (Mt 13,45-46)", "o": ["Bán hết tài sản của mình", "Bán tất cả những gì mình có", "Đem bán tất cả tài sản", "Đem bán tất cả gia tài"], "a": 1},
+  {"n": 174, "q": "“Nước Trời lại còn giống như chuyện chiếc lưới thả xuống biển, gom được đủ thứ cá. Khi lưới đầy, người ta kéo lên bãi, rồi ngồi nhặt… cho vào giỏ, còn cá xấu thì vứt ra ngoài”. (Mt 13,47-48)", "o": ["Cá tốt", "Cá lớn", "Con nào tốt", "Con cá nào tốt"], "a": 0},
+  {"n": 175, "q": "“Các thiên thần sẽ xuất hiện và tách biệt kẻ xấu ra khỏi hàng ngũ…, rồi quăng chúng vào lò lửa. Ở đó, chúng sẽ phải khóc lóc nghiến răng”. (Mt 13,49-50)", "o": ["Các Thánh", "Người lành", "Người công chính", "Người tốt"], "a": 2},
+  {"n": 176, "q": "“Bởi vậy, bất cứ kinh sư nào đã được học hỏi về Nước Trời, thì cũng giống như chủ nhà kia lấy ra từ trong… cả cái mới lẫn cái cũ.” (Mt 13,52)", "o": ["Ngân hàng của mình", "Kho tàng của mình", "Kho của nhà mình", "Kho lẫm của mình"], "a": 1},
+  {"n": 177, "q": "“Ngôn sứ có bị rẻ rúng, thì cũng chỉ là ở… và trong gia đình mình mà thôi.” (Mt 13,57)", "o": ["Quê hương", "Chính quê hương mình", "Ngay chính quê hương", "Ngay tại quê hương mình"], "a": 1},
+  {"n": 178, "q": "“Người không làm nhiều phép lạ tại đó, vì…”. (Mt 13,58)", "o": ["Họ không có lòng tin", "Chẳng có tin", "Họ phản đối Người", "Họ không tin"], "a": 3},
+  {"n": 179, "q": "“Đức Giê-su bảo: “Họ không cần phải đi đâu cả,… hãy cho họ ăn.” (Mt 14,16)", "o": ["Anh em", "Các con", "Chính anh em", "Chính các con"], "a": 2},
+  {"n": 180, "q": "“Người cầm lấy năm cái bánh và hai con cá, ngước mắt lên trời, …, và bẻ ra, trao cho môn đệ. Và môn đệ trao cho dân chúng”. (Mt 14,19)", "o": ["Tạ ơn", "Dâng lời chúc tụng", "Dâng lời tạ ơn", "Tạ ơn Thiên Chúa"], "a": 1}
+  ]
+});

@@ -1,0 +1,27 @@
+/* Lược sử Giáo phận Thái Bình – phần 2 (20 câu) */
+QUIZ.register({
+  id: "ls-02", group: "ls", kind: "fixed",
+  title: "Phần 2", short: "Lược sử phần 2", sub: "Câu 21–40 · 20 câu",
+  questions: [
+  {"n": 21, "q": "Theo số liệu thống kê năm 1939, Giáo phận Thái Bình có bao nhiêu giáo xứ và bao nhiêu họ lẻ?", "o": ["90 giáo xứ và 512 họ lẻ", "50 giáo xứ và 552 họ lẻ", "60 giáo xứ và 542 họ lẻ", "154 giáo xứ và 448 họ lẻ"], "a": 1},
+  {"n": 22, "q": "Ai là vị Giám mục Tông tòa tiên khởi (đầu tiên) của Giáo phận Thái Bình?", "o": ["Đức Cha Gómez Lễ", "Đức Cha Gioan Casado Thuận", "Đức Cha Santos Ubierna Ninh", "Cha Joe Sedano Thái"], "a": 1},
+  {"n": 23, "q": "Cơ sở đầu tiên của Giáo phận Thái Bình được Đức Cha Gioan Casado Thuận khánh thành vào tháng 9/1937 là công trình nào?", "o": ["Tòa Giám mục Thái Bình", "Nhà thờ Chính tòa Thái Bình", "Tiểu Chủng viện Thánh Tôma Mỹ Đức", "Nhà Dục Anh tại Giáo xứ An Lập"], "a": 2},
+  {"n": 24, "q": "Trên phần đất Giáo phận thuộc tỉnh Hưng Yên, Đức Cha Gioan Casado Thuận cho xây dựng một tòa nhà kiến trúc theo lối Tây phương với ba tầng lầu, ngay tại Tỉnh lỵ. Đây là tòa nhà gì?", "o": ["Nhà Dục Anh", "Nhà cô nhi viện", "Trường Thầy giảng", "Tiểu Chủng viện Thánh Tôma"], "a": 2},
+  {"n": 25, "q": "Vì sao Đức Cha Gioan Casado Thuận không thể trở về Giáo phận Thái Bình sau khi sang Rôma triều yết Đức Thánh Cha vào năm 1939?", "o": ["Vì ngài bị nhà nước cấm nhập cảnh", "Vì Thế chiến thứ II bùng nổ, không có phương tiện trở về", "Vì ngài được Tòa Thánh giữ lại làm việc tại Rôma", "Vì ngài xin từ nhiệm để ở lại quê nhà Tây Ban Nha"], "a": 1},
+  {"n": 26, "q": "Trước khi qua đời vào năm 1941, Đức Cha Gioan Casado Thuận đã trao quyền điều hành Giáo phận Thái Bình cho vị linh mục nào thông qua chúc thư?", "o": ["Cha chính xứ Tràng An", "Cha Andrê Kiên", "Cha chính Joe Sedano Thái", "Cha Felice Morelli"], "a": 2},
+  {"n": 27, "q": "Khẩu hiệu Giám mục được Đức Cha Santos Ubierna Ninh lựa chọn cho sứ vụ của mình là gì?", "o": ["Phúc Ông – Felice", "Hãy ra khơi", "Đổ máu hòa dâng với hy sinh lễ tế", "Cho chúng con nên một"], "a": 2},
+  {"n": 28, "q": "Trước khi sang Việt Nam truyền giáo vào năm 1932, Đức Cha Santos Ubierna Ninh đã thụ phong linh mục vào năm nào?", "o": ["Năm 1923", "Năm 1930", "Năm 1942", "Năm 1954"], "a": 1},
+  {"n": 29, "q": "Nhằm mục đích phổ biến các tài liệu, sách báo Công giáo cho Giáo phận trong thời gian chiến tranh khó khăn, Đức Cha Ubierna Ninh đã thành lập cơ sở nào?", "o": ["Tiểu Chủng viện Thánh Tôma", "Nhà in Đaminh Thái Bình", "Nhà Dục Anh cấp Giáo phận", "Trường Thầy giảng Hưng Yên"], "a": 1},
+  {"n": 30, "q": "Theo số liệu thống kê đầu năm 1954, tổng số giáo xứ trong Giáo phận Thái Bình đã được nâng lên con số bao nhiêu?", "o": ["11 giáo xứ", "50 giáo xứ", "63 giáo xứ", "552 giáo xứ"], "a": 2},
+  {"n": 31, "q": "Sau hiệp định Genève, Đức Cha Santos Ubierna Ninh di cư vào miền Nam rồi về thăm quê hương Tây Ban Nha. Ngài qua đời vào ngày 15/4/1955 tại đâu?", "o": ["Thái Bình", "Madrid (Tây Ban Nha)", "Sài Gòn", "Nam Định"], "a": 2},
+  {"n": 32, "q": "Ai là vị Giám mục Chính tòa đầu tiên của Giáo phận Thái Bình sau khi Tòa Thánh thiết lập Hàng Giáo Phẩm Việt Nam vào ngày 24/11/1960?", "o": ["Đức Cha Gioan Casado Thuận", "Đức Cha Santos Ubierna Ninh", "Đức Cha Đaminh Maria Đinh Đức Trụ", "Đức Cha Giuse Trịnh Như Khuê"], "a": 2},
+  {"n": 33, "q": "Khẩu hiệu Giám mục được Đức Cha Đaminh Maria Đinh Đức Trụ lựa chọn cho sứ vụ của mình là gì?", "o": ["Đổ máu hòa dâng với hy sinh lễ tế", "Này là Mẹ con", "Lính tốt của Chúa Kitô", "Cho chúng con nên một"], "a": 2},
+  {"n": 34, "q": "Khi Đức Cha Ubierna Ninh qua đời, cha Chính Đaminh Maria Đinh Đức Trụ được đặt làm Giám quản Giáo phận. Vào thời điểm đó, Giáo phận Thái Bình còn lại bao nhiêu linh mục?", "o": ["13 linh mục", "21 linh mục", "57 linh mục", "64 linh mục"], "a": 0},
+  {"n": 35, "q": "Để giải quyết tình trạng thiếu hụt nhân sự trầm trọng sau biến cố di cư năm 1954, Đức Cha Đaminh Maria Đinh Đức Trụ đã có quyết định quan trọng nào vào năm 1956?", "o": ["Xây dựng Nhà in Đaminh Thái Bình", "Mở cửa trở lại Tiểu Chủng viện Mỹ Đức", "Gửi tất cả đại chủng sinh sang Tây Ban Nha học tập", "Thành lập dòng tu mới để nhận thêm tu sĩ"], "a": 1},
+  {"n": 36, "q": "Trong bối cảnh xã hội khó khăn không thể mở trường công khai, Đức Cha Đaminh Maria Đinh Đức Trụ đã đào tạo các tiến chức linh mục bằng hình thức nào?", "o": ["Gửi vào các giáo phận miền Nam học tập", "Âm thầm dạy hàm thụ", "Mời các giáo sư nước ngoài về dạy trực tuyến", "Cho các chủng sinh tự học tại nhà xứ"], "a": 1},
+  {"n": 37, "q": "Đức Cha Đaminh Maria Đinh Đức Trụ đã an nghỉ trong Chúa vào ngày tháng năm nào, sau 22 năm thi hành chức vụ Giám mục Chính tòa?", "o": ["Ngày 30/6/1954", "Ngày 24/11/1960", "Ngày 29/01/1968", "Ngày 07/6/1982"], "a": 3},
+  {"n": 38, "q": "Khẩu hiệu Giám mục được Đức Cha Giuse Đinh Bỉnh lựa chọn cho sứ vụ của mình là gì?", "o": ["Lính tốt của Chúa Kitô", "Đổ máu hòa dâng với hy sinh lễ tế", "Này là Mẹ con", "Cho chúng con nên một"], "a": 2},
+  {"n": 39, "q": "Do tính cách hiền lành, đơn sơ và luôn lấy đức ái làm phương châm cuộc sống, giáo dân đã gọi Đức Cha Giuse Đinh Bỉnh bằng biệt danh gì?", "o": ["Phúc Ông", "Người Kiến Tạo", "Hòa Bình", "Người Thầy Nhân Từ"], "a": 2},
+  {"n": 40, "q": "Đức Cha Giuse Đinh Bỉnh được tấn phong Giám mục vào ngày 08/12/1979 tại nhà thờ Chính tòa Thái Bình bởi vị chủ phong nào?", "o": ["Đức Hồng Y Giuse Trịnh Văn Căn", "Đức cha Giuse Trịnh Như Khuê", "Đức cha Đaminh Maria Đinh Đức Trụ", "Đức cha Gomez Lễ"], "a": 0}
+  ]
+});

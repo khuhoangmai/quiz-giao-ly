@@ -1,0 +1,37 @@
+/* Trắc nghiệm khách quan – đề 3 (30 câu) */
+QUIZ.register({
+  id: "tn-03", group: "tn", kind: "fixed",
+  title: "Đề 3", short: "TN đề 3", sub: "Câu 61–90 · 30 câu",
+  questions: [
+  {"n": 61, "q": "‘Đứng dậy, vác giường đi về nhà!’” Đức Giê-su nói câu này với ai? (x. Mt 9,6)", "o": ["Người bị quỷ ám", "Người bại liệt", "Người bị thần ô uế ám", "Một vị thủ lãnh"], "a": 1},
+  {"n": 62, "q": "“Anh hãy theo tôi!” Đức Giê-su nói câu này với ai? (x. Mt 9,9)", "o": ["Si-môn và An-rê", "Gia-cô-bê và Gio-an", "Mát-thêu", "Người bại liệt"], "a": 2},
+  {"n": 63, "q": "“Sao Thầy các anh lại ăn uống với bọn thu thuế và quân tội lỗi như vậy?” Ai đã nói lời này với các môn đệ? (x. Mt 9,11)", "o": ["Những người Pha-ri-sêu", "Các kinh sư", "Các thượng tế", "Cả B và C"], "a": 0},
+  {"n": 64, "q": "“Con gái tôi vừa mới chết. Nhưng xin Ngài đến đặt tay lên cháu, là nó sẽ sống.” Ai đã nói câu này? (x. Mt 9,18)", "o": ["Ông trưởng hội đường", "Một vị thủ lãnh", "Ông Gia-ia", "Viên sĩ quan ngoại giáo"], "a": 1},
+  {"n": 65, "q": "“Tôi chỉ cần sờ được vào áo của Người thôi là sẽ được cứu!” Ai đã nghĩ bụng như vậy? (x. Mt 9,20-21)", "o": ["Người bại liệt", "Anh mù Ba-ti-mê", "Người đàn bà bị rong huyết", "Anh mù từ khi mới sinh"], "a": 2},
+  {"n": 66, "q": "“Này con, cứ yên tâm, lòng tin của con đã cứu chữa con.” Đức Giê-su đã nói câu này với ai? (x. Mt 9,20-22)", "o": ["Người bại liệt", "Anh mù từ khi mới sinh", "Người bị quỷ ám", "Người đàn bà bị rong huyết"], "a": 3},
+  {"n": 67, "q": "“Lạy Con vua Đa-vít, xin thương xót chúng tôi!” Ai đã nói câu này? (x. Mt 9,27)", "o": ["Hai người mù", "Anh mù Ba-ti-mê", "10 người phong cùi", "2 người bị quỷ ám"], "a": 0},
+  {"n": 68, "q": "“Các anh có tin là tôi làm được điều ấy không?” Đức Giê-su đã nói câu này với ai? (x. Mt 9,27-28)", "o": ["Anh mù Ba-ti-mê", "2 người bị quỷ ám", "Hai người mù", "10 người phong cùi"], "a": 2},
+  {"n": 69, "q": "“Các anh tin thế nào thì được như vậy.” Đức Giê-su đã nói câu này với ai? (x. Mt 9,29)", "o": ["10 người phong cùi", "Hai người mù", "2 người bị quỷ ám", "Viên sĩ quan ngoại giáo"], "a": 1},
+  {"n": 70, "q": "“Ông ấy dựa thế quỷ vương mà trừ quỷ.” Ai đã nói câu này? (x. Mt 9,32-34)", "o": ["Các kinh sư", "Người Do-thái", "Người Pha-ri-sêu", "Cả A và C"], "a": 2},
+  {"n": 71, "q": "“Anh em đừng đi về phía các dân ngoại, cũng đừng vào thành nào của dân Sa-ma-ri. Tốt hơn là hãy đến với các con chiên lạc nhà Ít-ra-en”. Đức Giê-su nói câu này với ai? (x. Mt 10,1-6)", "o": ["72 môn đệ", "12 Tông Đồ", "72 người khác", "10 người phong cùi"], "a": 1},
+  {"n": 72, "q": "Khi sai 12 Tông Đồ đi rao giảng, Ngài khuyên bảo họ phải có thái độ đơn sơ như con vật nào? (x. Mt 10,16)", "o": ["Chiên", "Sói", "Rắn", "Bồ câu"], "a": 3},
+  {"n": 73, "q": "Khi dạy các môn đệ bài học về “Hãy nói giữa ban ngày, đừng có sợ”, Đức Giê-su đã ví họ với con vật nào? (x. Mt 10,28-31)", "o": ["Bồ câu", "Rắn", "Chim sẻ", "Con chiên"], "a": 2},
+  {"n": 74, "q": "“Thưa Thầy, Thầy có thật là Đấng phải đến không, hay là chúng tôi còn phải đợi ai khác?” Ai đã sai môn đệ đến hỏi Đức Giê-su câu này? (x. Mt 11,2-3)", "o": ["Viên sĩ quan ngoại giáo", "Ông trưởng hội đường", "Gioan Tẩy Giả", "Tổng trấn Phi-la-tô"], "a": 2},
+  {"n": 75, "q": "“Thưa Thầy, Thầy có thật là Đấng phải đến không, hay là chúng tôi còn phải đợi ai khác ?” Khi sai môn đệ đến hỏi Đức Giê-su câu này, lúc ấy ông Gioan đang ở đâu? (x. Mt 11,2-3)", "o": ["Hoang địa", "Sông Gio-đan", "Trong tù", "Trong rừng vắng"], "a": 2},
+  {"n": 76, "q": "“Thế thì anh em ra xem gì? Một vị ngôn sứ chăng? Đúng thế đó; mà tôi nói cho anh em biết, đây còn hơn cả ngôn sứ nữa”. Đức Giê-su nói những lời này về ai? (x. Mt 11,7- 10)", "o": ["Gio-an Tông Đồ", "Giô-na", "Phi-líp-phê", "Gioan Tẩy Giả"], "a": 3},
+  {"n": 77, "q": "“Chính ông là người Kinh Thánh đã nói tới khi chép rằng: Này Ta sai sứ giả của Ta đi trước mặt Con, người sẽ dọn đường cho Con đến”. Đức Giê-su nói về ai? (x. Mt 11,7- 10)", "o": ["Giô-na", "Gioan Tẩy Giả", "Phi-líp-phê", "Gio-an Tông Đồ"], "a": 1},
+  {"n": 78, "q": "“Còn ngươi nữa, ngươi tưởng sẽ được nâng lên đến tận trời ư? Ngươi sẽ phải nhào xuống tận âm phủ! Vì nếu các phép lạ đã làm nơi ngươi mà được làm tại Xơ-đôm, thì thành ấy đã tồn tại cho đến ngày nay”. Đức Giê-su nói về thành nào? (x. Mt 11,23)", "o": ["Kho-ra-din", "Bết-xai-đa", "Ca-phác-na-um", "Gô-mô-ra"], "a": 2},
+  {"n": 79, "q": "“Ông coi, các môn đệ ông làm điều không được phép làm ngày sa-bát!” Ai đã nói câu này? (x. Mt 12,2)", "o": ["Các kinh sư", "Người Pha-ri-sêu", "Ông Trưởng hội đường", "Cả A và C"], "a": 1},
+  {"n": 80, "q": "“Đây là Người Tôi Tớ Ta đã tuyển chọn, đây là người Ta yêu dấu: Ta hài lòng về Người. Ta cho Thần Khí Ta ngự trên Người. Người sẽ loan báo công lý trước muôn dân’. Ngôn sứ nào đã nói câu này? (x. Mt 12,17-18)", "o": ["Giô-na", "Mi-kha", "I-sai-a", "Giê-rê-mi-a"], "a": 2},
+  {"n": 81, "q": "“Ông này trừ được quỷ chỉ là nhờ dựa thế quỷ vương Bê-en-dê-bun.” Ai đã nói câu này? (x. Mt 12,24)", "o": ["Các kinh sư", "Các người Do-thái", "Người Pha-ri-sêu", "Cả A và C"], "a": 2},
+  {"n": 82, "q": "“Thưa Thầy, chúng tôi muốn thấy Thầy làm một dấu lạ.” Ai đã nói câu này? (x. Mt 12,38)", "o": ["Mấy kinh sư", "Mấy người Pha-ri-sêu", "Các người Do-thái", "Cả A và B"], "a": 3},
+  {"n": 83, "q": "“Thế hệ gian ác và ngoại tình này đòi dấu lạ. Nhưng chúng sẽ không được dấu lạ nào, ngoài dấu lạ ngôn sứ Giô-na. Đức Giê-su nói câu này với ai? (x. Mt 12,38-39)", "o": ["Mấy kinh sư", "Mấy người Pha-ri-sêu", "Các người Do-thái", "Cả A và B"], "a": 3},
+  {"n": 84, "q": "Khi kể về câu chuyện ông Gio-na, Đức Giê-su đã nhắc đến tên của thành nào trong Cựu Ước? (x. Mt 12,41)", "o": ["Xơ-đôm", "Thành Ni-ni-vê", "Gô-mô-ra", "Kho-ra-din"], "a": 1},
+  {"n": 85, "q": "Những hạt giống khi gieo xuống bị chim chóc đến ăn mất, đó là loại hạt giống rơi vào đâu? (x. Mt 13,4)", "o": ["Rơi trên sỏi đá", "Rơi xuống vệ đường", "Rơi vào bụi gai", "Rơi trên đất tốt"], "a": 1},
+  {"n": 86, "q": "Những hạt giống khi gieo xuống thì nó mọc ngay vì đất không sâu, đó là loại hạt giống rơi vào đâu? (x. Mt 13,5)", "o": ["Bụi gai", "Vệ đường", "Đất tốt", "Sỏi đá"], "a": 3},
+  {"n": 87, "q": "Những hạt giống khi gieo xuống bị chim chóc đến ăn mất là loại hạt giống rơi vào đâu? (x. Mt 13,4)", "o": ["Vệ đường", "Trên sỏi đá", "Bụi gai", "Đất tốt"], "a": 0},
+  {"n": 88, "q": "“Các ngươi có lắng tai nghe cũng chẳng hiểu, có trố mắt nhìn cũng chẳng thấy; vì lòng dân này đã ra chai đá”. Ngôn sứ nào đã nói câu này? (x. Mt 13,14-15)", "o": ["Giô-na", "Mi-kha", "I-sai-a", "Giê-rê-mi-a"], "a": 2},
+  {"n": 89, "q": "“Hễ ai nghe lời rao giảng Nước Trời mà không hiểu, thì quỷ dữ đến cướp đi điều đã gieo trong lòng người ấy”. Đó là kẻ đã được gieo vào đâu? (x. Mt 13,19)", "o": ["Sỏi đá", "Bụi gai", "Vệ đường", "Đất tốt"], "a": 2},
+  {"n": 90, "q": "“Kẻ nghe Lời và liền vui vẻ đón nhận. Nhưng nó không đâm rễ mà là kẻ nhất thời: khi gặp gian nan hay bị ngược đãi vì Lời, nó vấp ngã ngay”. Đó là kẻ được gieo vào đâu? (x. Mt 13,20-21)", "o": ["Bụi gai", "Vệ đường", "Sỏi đá", "Đất tốt"], "a": 2}
+  ]
+});
